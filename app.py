@@ -33,7 +33,7 @@ with open("dnn_model/classes.txt", "r") as file_object:
         class_name = class_name.strip()
         classes.append(class_name)
 
-# The object the system will detect for now, it is person, cat, dog , sheep, cow ,bottel, chair
+# The object the system will detect for now, it is person, cat, dog , sheep, cow ,bottle, chair
 class_ids_to_detect = [0, 15, 16, 18, 19, 39, 56, 63, 67] 
 
 # Function to perform real-time detection
@@ -78,7 +78,7 @@ def detect_objects(frame):
                 y = int(center_y - h / 2)
 
                 # Define colors for different classes (modify as needed)
-                colors = {"person": (0, 255, 0), "cow": (255, 0, 0), "cat": (0, 0, 255), "dog": (255, 255, 0), "laptop": (0, 255, 255), "chair": (255, 0, 255), "bottel": (128, 0, 128)}
+                colors = {"person": (0, 255, 0), "cow": (255, 0, 0), "cat": (0, 0, 255), "dog": (255, 255, 0), "laptop": (0, 255, 255), "chair": (255, 0, 255), "bottle": (128, 0, 128)}
 
                 # Draw bounding boxes with class-specific colors
                 color = colors.get(label, (0, 0, 0))  # Default to black if class not found
