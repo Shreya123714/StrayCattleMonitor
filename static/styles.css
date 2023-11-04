@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #E2F1DE;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-image: url('images/cattel.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+header {
+    background-color: #3E8D99;
+    color: #fff;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+}
+
+.video-feed {
+    background-color: #3E8D99;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    width: 45%;
+    text-align: center;
+}
+
+.data-table {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    width: 45%;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    padding: 10px;
+}
+
+#video-element {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}
+
+#data-table-body {
+    height: 300px;
+    overflow-y: scroll;
+}
