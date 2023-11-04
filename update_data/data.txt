@@ -1,0 +1,2507 @@
+Object: person, Time: 2023-11-04 07:16:04
+Object: person, Time: 2023-11-04 07:21:36
+Object: person, Time: 2023-11-04 07:21:53
+Object: No object detected, Time: 2023-11-04 07:23:35
+Object: No object detected, Time: 2023-11-04 07:23:35
+Object: No object detected, Time: 2023-11-04 07:23:35
+Object: No object detected, Time: 2023-11-04 07:23:35
+Object: No object detected, Time: 2023-11-04 07:23:35
+Object: No object detected, Time: 2023-11-04 07:23:36
+Object: No object detected, Time: 2023-11-04 07:23:36
+Object: person, Time: 2023-11-04 07:23:36
+Object: No object detected, Time: 2023-11-04 07:23:37
+Object: person, Time: 2023-11-04 07:23:37
+Object: No object detected, Time: 2023-11-04 07:23:37
+Object: No object detected, Time: 2023-11-04 07:23:37
+Object: No object detected, Time: 2023-11-04 07:23:38
+Object: No object detected, Time: 2023-11-04 07:23:38
+Object: No object detected, Time: 2023-11-04 07:23:38
+Object: No object detected, Time: 2023-11-04 07:23:38
+Object: No object detected, Time: 2023-11-04 07:23:39
+Object: No object detected, Time: 2023-11-04 07:23:39
+Object: No object detected, Time: 2023-11-04 07:23:39
+Object: No object detected, Time: 2023-11-04 07:23:39
+Object: No object detected, Time: 2023-11-04 07:23:40
+Object: No object detected, Time: 2023-11-04 07:23:40
+Object: No object detected, Time: 2023-11-04 07:23:40
+Object: No object detected, Time: 2023-11-04 07:23:40
+Object: No object detected, Time: 2023-11-04 07:23:41
+Object: No object detected, Time: 2023-11-04 07:23:41
+Object: No object detected, Time: 2023-11-04 07:23:42
+Object: No object detected, Time: 2023-11-04 07:23:42
+Object: No object detected, Time: 2023-11-04 07:23:43
+Object: No object detected, Time: 2023-11-04 07:23:43
+Object: No object detected, Time: 2023-11-04 07:23:43
+Object: No object detected, Time: 2023-11-04 07:23:43
+Object: No object detected, Time: 2023-11-04 07:23:44
+Object: No object detected, Time: 2023-11-04 07:23:44
+Object: person, Time: 2023-11-04 07:23:44
+Object: No object detected, Time: 2023-11-04 07:23:44
+Object: No object detected, Time: 2023-11-04 07:23:45
+Object: No object detected, Time: 2023-11-04 07:23:45
+Object: No object detected, Time: 2023-11-04 07:23:45
+Object: No object detected, Time: 2023-11-04 07:23:45
+Object: No object detected, Time: 2023-11-04 07:23:46
+Object: person, Time: 2023-11-04 07:23:46
+Object: No object detected, Time: 2023-11-04 07:23:46
+Object: No object detected, Time: 2023-11-04 07:23:46
+Object: No object detected, Time: 2023-11-04 07:23:47
+Object: No object detected, Time: 2023-11-04 07:23:47
+Object: No object detected, Time: 2023-11-04 07:23:47
+Object: No object detected, Time: 2023-11-04 07:23:47
+Object: No object detected, Time: 2023-11-04 07:23:48
+Object: No object detected, Time: 2023-11-04 07:23:48
+Object: No object detected, Time: 2023-11-04 07:23:48
+Object: person, Time: 2023-11-04 07:23:48
+Object: person, Time: 2023-11-04 07:23:49
+Object: No object detected, Time: 2023-11-04 07:23:49
+Object: No object detected, Time: 2023-11-04 07:23:49
+Object: No object detected, Time: 2023-11-04 07:23:49
+Object: No object detected, Time: 2023-11-04 07:23:50
+Object: person, Time: 2023-11-04 07:23:50
+Object: No object detected, Time: 2023-11-04 07:23:50
+Object: No object detected, Time: 2023-11-04 07:23:50
+Object: No object detected, Time: 2023-11-04 07:23:51
+Object: No object detected, Time: 2023-11-04 07:23:51
+Object: No object detected, Time: 2023-11-04 07:23:51
+Object: No object detected, Time: 2023-11-04 07:23:52
+Object: No object detected, Time: 2023-11-04 07:23:52
+Object: No object detected, Time: 2023-11-04 07:23:52
+Object: No object detected, Time: 2023-11-04 07:23:52
+Object: No object detected, Time: 2023-11-04 07:23:52
+Object: No object detected, Time: 2023-11-04 07:23:53
+Object: No object detected, Time: 2023-11-04 07:23:53
+Object: No object detected, Time: 2023-11-04 07:23:53
+Object: No object detected, Time: 2023-11-04 07:23:53
+Object: No object detected, Time: 2023-11-04 07:23:54
+Object: No object detected, Time: 2023-11-04 07:23:54
+Object: No object detected, Time: 2023-11-04 07:23:54
+Object: No object detected, Time: 2023-11-04 07:23:55
+Object: No object detected, Time: 2023-11-04 07:23:55
+Object: No object detected, Time: 2023-11-04 07:23:55
+Object: No object detected, Time: 2023-11-04 07:23:55
+Object: No object detected, Time: 2023-11-04 07:23:56
+Object: No object detected, Time: 2023-11-04 07:23:56
+Object: No object detected, Time: 2023-11-04 07:23:56
+Object: person, Time: 2023-11-04 07:23:56
+Object: No object detected, Time: 2023-11-04 07:23:57
+Object: No object detected, Time: 2023-11-04 07:23:57
+Object: No object detected, Time: 2023-11-04 07:23:57
+Object: No object detected, Time: 2023-11-04 07:23:57
+Object: No object detected, Time: 2023-11-04 07:23:58
+Object: No object detected, Time: 2023-11-04 07:23:58
+Object: No object detected, Time: 2023-11-04 07:23:58
+Object: No object detected, Time: 2023-11-04 07:23:58
+Object: No object detected, Time: 2023-11-04 07:23:59
+Object: No object detected, Time: 2023-11-04 07:23:59
+Object: No object detected, Time: 2023-11-04 07:23:59
+Object: No object detected, Time: 2023-11-04 07:23:59
+Object: No object detected, Time: 2023-11-04 07:24:00
+Object: No object detected, Time: 2023-11-04 07:24:00
+Object: No object detected, Time: 2023-11-04 07:24:00
+Object: No object detected, Time: 2023-11-04 07:24:00
+Object: No object detected, Time: 2023-11-04 07:24:01
+Object: No object detected, Time: 2023-11-04 07:24:01
+Object: No object detected, Time: 2023-11-04 07:24:01
+Object: No object detected, Time: 2023-11-04 07:24:01
+Object: No object detected, Time: 2023-11-04 07:24:02
+Object: No object detected, Time: 2023-11-04 07:24:02
+Object: No object detected, Time: 2023-11-04 07:24:02
+Object: No object detected, Time: 2023-11-04 07:24:02
+Object: No object detected, Time: 2023-11-04 07:24:03
+Object: No object detected, Time: 2023-11-04 07:24:03
+Object: No object detected, Time: 2023-11-04 07:24:03
+Object: No object detected, Time: 2023-11-04 07:24:03
+Object: No object detected, Time: 2023-11-04 07:24:04
+Object: No object detected, Time: 2023-11-04 07:24:04
+Object: No object detected, Time: 2023-11-04 07:24:04
+Object: No object detected, Time: 2023-11-04 07:24:04
+Object: No object detected, Time: 2023-11-04 07:24:05
+Object: No object detected, Time: 2023-11-04 07:24:05
+Object: No object detected, Time: 2023-11-04 07:24:05
+Object: No object detected, Time: 2023-11-04 07:24:05
+Object: No object detected, Time: 2023-11-04 07:24:06
+Object: No object detected, Time: 2023-11-04 07:24:06
+Object: No object detected, Time: 2023-11-04 07:24:06
+Object: No object detected, Time: 2023-11-04 07:24:06
+Object: No object detected, Time: 2023-11-04 07:24:07
+Object: No object detected, Time: 2023-11-04 07:24:07
+Object: No object detected, Time: 2023-11-04 07:24:07
+Object: No object detected, Time: 2023-11-04 07:24:07
+Object: No object detected, Time: 2023-11-04 07:24:08
+Object: No object detected, Time: 2023-11-04 07:24:08
+Object: No object detected, Time: 2023-11-04 07:24:08
+Object: No object detected, Time: 2023-11-04 07:24:08
+Object: No object detected, Time: 2023-11-04 07:24:09
+Object: No object detected, Time: 2023-11-04 07:24:09
+Object: No object detected, Time: 2023-11-04 07:24:09
+Object: No object detected, Time: 2023-11-04 07:24:09
+Object: No object detected, Time: 2023-11-04 07:24:10
+Object: No object detected, Time: 2023-11-04 07:24:10
+Object: No object detected, Time: 2023-11-04 07:24:10
+Object: No object detected, Time: 2023-11-04 07:24:10
+Object: No object detected, Time: 2023-11-04 07:24:11
+Object: No object detected, Time: 2023-11-04 07:24:11
+Object: No object detected, Time: 2023-11-04 07:24:11
+Object: No object detected, Time: 2023-11-04 07:24:12
+Object: No object detected, Time: 2023-11-04 07:24:12
+Object: No object detected, Time: 2023-11-04 07:24:12
+Object: No object detected, Time: 2023-11-04 07:24:12
+Object: No object detected, Time: 2023-11-04 07:24:12
+Object: No object detected, Time: 2023-11-04 07:24:13
+Object: No object detected, Time: 2023-11-04 07:24:13
+Object: No object detected, Time: 2023-11-04 07:24:13
+Object: No object detected, Time: 2023-11-04 07:24:13
+Object: No object detected, Time: 2023-11-04 07:24:14
+Object: No object detected, Time: 2023-11-04 07:24:14
+Object: No object detected, Time: 2023-11-04 07:24:14
+Object: No object detected, Time: 2023-11-04 07:24:14
+Object: No object detected, Time: 2023-11-04 07:24:15
+Object: No object detected, Time: 2023-11-04 07:24:15
+Object: No object detected, Time: 2023-11-04 07:24:15
+Object: No object detected, Time: 2023-11-04 07:24:15
+Object: No object detected, Time: 2023-11-04 07:24:16
+Object: No object detected, Time: 2023-11-04 07:24:16
+Object: No object detected, Time: 2023-11-04 07:24:16
+Object: No object detected, Time: 2023-11-04 07:24:16
+Object: No object detected, Time: 2023-11-04 07:24:17
+Object: No object detected, Time: 2023-11-04 07:24:17
+Object: No object detected, Time: 2023-11-04 07:24:17
+Object: No object detected, Time: 2023-11-04 07:24:17
+Object: No object detected, Time: 2023-11-04 07:24:18
+Object: No object detected, Time: 2023-11-04 07:24:18
+Object: No object detected, Time: 2023-11-04 07:24:18
+Object: No object detected, Time: 2023-11-04 07:24:18
+Object: No object detected, Time: 2023-11-04 07:24:18
+Object: No object detected, Time: 2023-11-04 07:24:19
+Object: No object detected, Time: 2023-11-04 07:24:19
+Object: No object detected, Time: 2023-11-04 07:24:19
+Object: No object detected, Time: 2023-11-04 07:24:19
+Object: No object detected, Time: 2023-11-04 07:24:20
+Object: No object detected, Time: 2023-11-04 07:24:20
+Object: No object detected, Time: 2023-11-04 07:24:20
+Object: No object detected, Time: 2023-11-04 07:24:20
+Object: No object detected, Time: 2023-11-04 07:24:21
+Object: No object detected, Time: 2023-11-04 07:24:21
+Object: No object detected, Time: 2023-11-04 07:24:21
+Object: No object detected, Time: 2023-11-04 07:24:22
+Object: No object detected, Time: 2023-11-04 07:24:22
+Object: No object detected, Time: 2023-11-04 07:24:22
+Object: No object detected, Time: 2023-11-04 07:24:22
+Object: No object detected, Time: 2023-11-04 07:24:23
+Object: No object detected, Time: 2023-11-04 07:24:23
+Object: No object detected, Time: 2023-11-04 07:24:23
+Object: No object detected, Time: 2023-11-04 07:24:24
+Object: No object detected, Time: 2023-11-04 07:24:24
+Object: No object detected, Time: 2023-11-04 07:24:24
+Object: No object detected, Time: 2023-11-04 07:24:24
+Object: No object detected, Time: 2023-11-04 07:24:25
+Object: No object detected, Time: 2023-11-04 07:24:25
+Object: No object detected, Time: 2023-11-04 07:24:25
+Object: person, Time: 2023-11-04 07:24:25
+Object: person, Time: 2023-11-04 07:24:26
+Object: No object detected, Time: 2023-11-04 07:24:26
+Object: No object detected, Time: 2023-11-04 07:24:26
+Object: person, Time: 2023-11-04 07:24:26
+Object: person, Time: 2023-11-04 07:24:27
+Object: No object detected, Time: 2023-11-04 07:24:27
+Object: person, Time: 2023-11-04 07:24:27
+Object: No object detected, Time: 2023-11-04 07:24:27
+Object: No object detected, Time: 2023-11-04 07:24:27
+Object: person, Time: 2023-11-04 07:24:28
+Object: No object detected, Time: 2023-11-04 07:24:28
+Object: person, Time: 2023-11-04 07:24:28
+Object: No object detected, Time: 2023-11-04 07:24:28
+Object: person, Time: 2023-11-04 07:24:29
+Object: person, Time: 2023-11-04 07:24:29
+Object: person, Time: 2023-11-04 07:24:29
+Object: person, Time: 2023-11-04 07:24:30
+Object: person, Time: 2023-11-04 07:24:30
+Object: person, Time: 2023-11-04 07:24:30
+Object: No object detected, Time: 2023-11-04 07:24:31
+Object: person, Time: 2023-11-04 07:24:31
+Object: No object detected, Time: 2023-11-04 07:24:31
+Object: person, Time: 2023-11-04 07:24:32
+Object: person, Time: 2023-11-04 07:24:32
+Object: No object detected, Time: 2023-11-04 07:24:32
+Object: No object detected, Time: 2023-11-04 07:24:32
+Object: person, Time: 2023-11-04 07:24:33
+Object: person, Time: 2023-11-04 07:24:33
+Object: person, Time: 2023-11-04 07:24:33
+Object: person, Time: 2023-11-04 07:24:33
+Object: person, Time: 2023-11-04 07:24:34
+Object: person, Time: 2023-11-04 07:24:34
+Object: person, Time: 2023-11-04 07:24:34
+Object: person, Time: 2023-11-04 07:24:34
+Object: person, Time: 2023-11-04 07:24:35
+Object: person, Time: 2023-11-04 07:24:35
+Object: person, Time: 2023-11-04 07:24:35
+Object: person, Time: 2023-11-04 07:24:35
+Object: person, Time: 2023-11-04 07:24:36
+Object: person, Time: 2023-11-04 07:24:36
+Object: person, Time: 2023-11-04 07:24:36
+Object: person, Time: 2023-11-04 07:24:36
+Object: person, Time: 2023-11-04 07:24:37
+Object: person, Time: 2023-11-04 07:24:37
+Object: person, Time: 2023-11-04 07:24:37
+Object: person, Time: 2023-11-04 07:24:37
+Object: person, Time: 2023-11-04 07:24:37
+Object: No object detected, Time: 2023-11-04 07:24:38
+Object: person, Time: 2023-11-04 07:24:38
+Object: No object detected, Time: 2023-11-04 07:24:38
+Object: person, Time: 2023-11-04 07:24:39
+Object: person, Time: 2023-11-04 07:24:39
+Object: person, Time: 2023-11-04 07:24:39
+Object: person, Time: 2023-11-04 07:24:39
+Object: person, Time: 2023-11-04 07:24:40
+Object: person, Time: 2023-11-04 07:24:40
+Object: person, Time: 2023-11-04 07:24:40
+Object: person, Time: 2023-11-04 07:24:41
+Object: person, Time: 2023-11-04 07:24:41
+Object: person, Time: 2023-11-04 07:24:41
+Object: person, Time: 2023-11-04 07:24:41
+Object: person, Time: 2023-11-04 07:24:42
+Object: person, Time: 2023-11-04 07:24:42
+Object: person, Time: 2023-11-04 07:24:42
+Object: person, Time: 2023-11-04 07:24:43
+Object: person, Time: 2023-11-04 07:24:43
+Object: person, Time: 2023-11-04 07:24:44
+Object: person, Time: 2023-11-04 07:24:44
+Object: person, Time: 2023-11-04 07:24:44
+Object: person, Time: 2023-11-04 07:24:45
+Object: person, Time: 2023-11-04 07:24:45
+Object: person, Time: 2023-11-04 07:24:45
+Object: person, Time: 2023-11-04 07:24:46
+Object: person, Time: 2023-11-04 07:24:46
+Object: person, Time: 2023-11-04 07:24:46
+Object: No object detected, Time: 2023-11-04 07:24:46
+Object: person, Time: 2023-11-04 07:24:47
+Object: person, Time: 2023-11-04 07:24:47
+Object: No object detected, Time: 2023-11-04 07:24:47
+Object: person, Time: 2023-11-04 07:24:48
+Object: person, Time: 2023-11-04 07:24:48
+Object: No object detected, Time: 2023-11-04 07:24:48
+Object: No object detected, Time: 2023-11-04 07:24:48
+Object: No object detected, Time: 2023-11-04 07:24:49
+Object: No object detected, Time: 2023-11-04 07:24:49
+Object: person, Time: 2023-11-04 07:24:49
+Object: No object detected, Time: 2023-11-04 07:24:50
+Object: person, Time: 2023-11-04 07:24:51
+Object: No object detected, Time: 2023-11-04 07:24:51
+Object: person, Time: 2023-11-04 07:24:52
+Object: person, Time: 2023-11-04 07:24:52
+Object: person, Time: 2023-11-04 07:24:52
+Object: No object detected, Time: 2023-11-04 07:24:52
+Object: No object detected, Time: 2023-11-04 07:24:53
+Object: No object detected, Time: 2023-11-04 07:24:53
+Object: person, Time: 2023-11-04 07:24:53
+Object: No object detected, Time: 2023-11-04 07:24:53
+Object: No object detected, Time: 2023-11-04 07:24:54
+Object: No object detected, Time: 2023-11-04 07:24:54
+Object: No object detected, Time: 2023-11-04 07:24:54
+Object: No object detected, Time: 2023-11-04 07:24:54
+Object: person, Time: 2023-11-04 07:24:55
+Object: No object detected, Time: 2023-11-04 07:24:55
+Object: person, Time: 2023-11-04 07:24:55
+Object: person, Time: 2023-11-04 07:24:56
+Object: person, Time: 2023-11-04 07:24:56
+Object: person, Time: 2023-11-04 07:24:56
+Object: person, Time: 2023-11-04 07:24:56
+Object: person, Time: 2023-11-04 07:24:57
+Object: person, Time: 2023-11-04 07:24:57
+Object: No object detected, Time: 2023-11-04 07:24:57
+Object: person, Time: 2023-11-04 07:24:57
+Object: No object detected, Time: 2023-11-04 07:24:58
+Object: No object detected, Time: 2023-11-04 07:24:58
+Object: No object detected, Time: 2023-11-04 07:24:58
+Object: No object detected, Time: 2023-11-04 07:24:58
+Object: No object detected, Time: 2023-11-04 07:24:59
+Object: person, Time: 2023-11-04 07:24:59
+Object: No object detected, Time: 2023-11-04 07:24:59
+Object: person, Time: 2023-11-04 07:24:59
+Object: person, Time: 2023-11-04 07:25:00
+Object: person, Time: 2023-11-04 07:25:00
+Object: No object detected, Time: 2023-11-04 07:25:00
+Object: person, Time: 2023-11-04 07:25:00
+Object: person, Time: 2023-11-04 07:25:00
+Object: No object detected, Time: 2023-11-04 07:25:01
+Object: No object detected, Time: 2023-11-04 07:25:01
+Object: person, Time: 2023-11-04 07:25:01
+Object: person, Time: 2023-11-04 07:25:01
+Object: No object detected, Time: 2023-11-04 07:25:02
+Object: No object detected, Time: 2023-11-04 07:25:02
+Object: No object detected, Time: 2023-11-04 07:25:02
+Object: person, Time: 2023-11-04 07:25:02
+Object: person, Time: 2023-11-04 07:25:03
+Object: person, Time: 2023-11-04 07:25:03
+Object: person, Time: 2023-11-04 07:25:03
+Object: person, Time: 2023-11-04 07:25:03
+Object: person, Time: 2023-11-04 07:25:04
+Object: person, Time: 2023-11-04 07:25:04
+Object: person, Time: 2023-11-04 07:25:04
+Object: person, Time: 2023-11-04 07:25:04
+Object: person, Time: 2023-11-04 07:25:05
+Object: person, Time: 2023-11-04 07:25:05
+Object: person, Time: 2023-11-04 07:25:05
+Object: person, Time: 2023-11-04 07:25:05
+Object: person, Time: 2023-11-04 07:25:06
+Object: No object detected, Time: 2023-11-04 07:25:06
+Object: person, Time: 2023-11-04 07:25:06
+Object: person, Time: 2023-11-04 07:25:06
+Object: person, Time: 2023-11-04 07:25:07
+Object: person, Time: 2023-11-04 07:25:07
+Object: person, Time: 2023-11-04 07:25:07
+Object: person, Time: 2023-11-04 07:25:07
+Object: person, Time: 2023-11-04 07:25:08
+Object: person, Time: 2023-11-04 07:25:08
+Object: No object detected, Time: 2023-11-04 07:25:08
+Object: person, Time: 2023-11-04 07:25:08
+Object: No object detected, Time: 2023-11-04 07:25:09
+Object: person, Time: 2023-11-04 07:25:09
+Object: No object detected, Time: 2023-11-04 07:25:09
+Object: person, Time: 2023-11-04 07:25:09
+Object: person, Time: 2023-11-04 07:25:10
+Object: person, Time: 2023-11-04 07:25:10
+Object: No object detected, Time: 2023-11-04 07:25:10
+Object: No object detected, Time: 2023-11-04 07:25:10
+Object: No object detected, Time: 2023-11-04 07:25:11
+Object: No object detected, Time: 2023-11-04 07:25:11
+Object: person, Time: 2023-11-04 07:25:11
+Object: No object detected, Time: 2023-11-04 07:25:11
+Object: No object detected, Time: 2023-11-04 07:25:12
+Object: person, Time: 2023-11-04 07:25:12
+Object: No object detected, Time: 2023-11-04 07:25:12
+Object: No object detected, Time: 2023-11-04 07:25:12
+Object: person, Time: 2023-11-04 07:25:13
+Object: No object detected, Time: 2023-11-04 07:25:13
+Object: person, Time: 2023-11-04 07:25:13
+Object: person, Time: 2023-11-04 07:25:13
+Object: person, Time: 2023-11-04 07:25:14
+Object: person, Time: 2023-11-04 07:25:14
+Object: person, Time: 2023-11-04 07:25:14
+Object: No object detected, Time: 2023-11-04 07:25:14
+Object: No object detected, Time: 2023-11-04 07:25:15
+Object: No object detected, Time: 2023-11-04 07:25:15
+Object: person, Time: 2023-11-04 07:25:15
+Object: No object detected, Time: 2023-11-04 07:25:15
+Object: No object detected, Time: 2023-11-04 07:25:15
+Object: No object detected, Time: 2023-11-04 07:25:16
+Object: No object detected, Time: 2023-11-04 07:25:16
+Object: No object detected, Time: 2023-11-04 07:25:16
+Object: No object detected, Time: 2023-11-04 07:25:16
+Object: No object detected, Time: 2023-11-04 07:25:17
+Object: No object detected, Time: 2023-11-04 07:25:17
+Object: No object detected, Time: 2023-11-04 07:25:17
+Object: No object detected, Time: 2023-11-04 07:25:18
+Object: person, Time: 2023-11-04 07:25:18
+Object: No object detected, Time: 2023-11-04 07:25:18
+Object: No object detected, Time: 2023-11-04 07:25:18
+Object: No object detected, Time: 2023-11-04 07:25:18
+Object: No object detected, Time: 2023-11-04 07:25:19
+Object: person, Time: 2023-11-04 07:25:19
+Object: person, Time: 2023-11-04 07:25:19
+Object: No object detected, Time: 2023-11-04 07:25:20
+Object: No object detected, Time: 2023-11-04 07:25:20
+Object: No object detected, Time: 2023-11-04 07:25:21
+Object: person, Time: 2023-11-04 07:25:21
+Object: No object detected, Time: 2023-11-04 07:25:21
+Object: person, Time: 2023-11-04 07:25:21
+Object: No object detected, Time: 2023-11-04 07:25:22
+Object: No object detected, Time: 2023-11-04 07:25:22
+Object: No object detected, Time: 2023-11-04 07:25:22
+Object: No object detected, Time: 2023-11-04 07:25:23
+Object: No object detected, Time: 2023-11-04 07:25:23
+Object: No object detected, Time: 2023-11-04 07:25:23
+Object: No object detected, Time: 2023-11-04 07:25:23
+Object: No object detected, Time: 2023-11-04 07:25:24
+Object: person, Time: 2023-11-04 07:25:24
+Object: No object detected, Time: 2023-11-04 07:25:24
+Object: No object detected, Time: 2023-11-04 07:25:24
+Object: No object detected, Time: 2023-11-04 07:25:25
+Object: No object detected, Time: 2023-11-04 07:25:25
+Object: No object detected, Time: 2023-11-04 07:25:25
+Object: No object detected, Time: 2023-11-04 07:25:26
+Object: No object detected, Time: 2023-11-04 07:25:26
+Object: No object detected, Time: 2023-11-04 07:25:26
+Object: No object detected, Time: 2023-11-04 07:25:26
+Object: person, Time: 2023-11-04 07:25:27
+Object: person, Time: 2023-11-04 07:25:27
+Object: No object detected, Time: 2023-11-04 07:25:27
+Object: No object detected, Time: 2023-11-04 07:25:28
+Object: person, Time: 2023-11-04 07:25:28
+Object: No object detected, Time: 2023-11-04 07:25:28
+Object: No object detected, Time: 2023-11-04 07:25:29
+Object: No object detected, Time: 2023-11-04 07:25:29
+Object: person, Time: 2023-11-04 07:25:29
+Object: No object detected, Time: 2023-11-04 07:25:30
+Object: person, Time: 2023-11-04 07:25:30
+Object: No object detected, Time: 2023-11-04 07:25:30
+Object: No object detected, Time: 2023-11-04 07:25:30
+Object: No object detected, Time: 2023-11-04 07:25:31
+Object: No object detected, Time: 2023-11-04 07:25:31
+Object: No object detected, Time: 2023-11-04 07:25:31
+Object: No object detected, Time: 2023-11-04 07:25:32
+Object: No object detected, Time: 2023-11-04 07:25:32
+Object: No object detected, Time: 2023-11-04 07:28:10
+Object: No object detected, Time: 2023-11-04 07:28:10
+Object: No object detected, Time: 2023-11-04 07:28:10
+Object: No object detected, Time: 2023-11-04 07:28:10
+Object: No object detected, Time: 2023-11-04 07:28:11
+Object: person, Time: 2023-11-04 07:28:11
+Object: No object detected, Time: 2023-11-04 07:28:11
+Object: No object detected, Time: 2023-11-04 07:28:11
+Object: No object detected, Time: 2023-11-04 07:28:12
+Object: No object detected, Time: 2023-11-04 07:28:12
+Object: No object detected, Time: 2023-11-04 07:28:12
+Object: person, Time: 2023-11-04 07:28:12
+Object: No object detected, Time: 2023-11-04 07:28:13
+Object: No object detected, Time: 2023-11-04 07:28:13
+Object: person, Time: 2023-11-04 07:28:13
+Object: person, Time: 2023-11-04 07:28:14
+Object: person, Time: 2023-11-04 07:28:14
+Object: No object detected, Time: 2023-11-04 07:28:14
+Object: person, Time: 2023-11-04 07:28:15
+Object: No object detected, Time: 2023-11-04 07:28:15
+Object: No object detected, Time: 2023-11-04 07:28:15
+Object: No object detected, Time: 2023-11-04 07:28:16
+Object: No object detected, Time: 2023-11-04 07:28:16
+Object: No object detected, Time: 2023-11-04 07:28:16
+Object: No object detected, Time: 2023-11-04 07:28:17
+Object: No object detected, Time: 2023-11-04 07:28:17
+Object: No object detected, Time: 2023-11-04 07:28:17
+Object: No object detected, Time: 2023-11-04 07:28:18
+Object: person, Time: 2023-11-04 07:28:18
+Object: No object detected, Time: 2023-11-04 07:28:18
+Object: No object detected, Time: 2023-11-04 07:28:19
+Object: No object detected, Time: 2023-11-04 07:28:19
+Object: No object detected, Time: 2023-11-04 07:28:19
+Object: No object detected, Time: 2023-11-04 07:28:19
+Object: No object detected, Time: 2023-11-04 07:28:20
+Object: No object detected, Time: 2023-11-04 07:28:20
+Object: No object detected, Time: 2023-11-04 07:28:20
+Object: No object detected, Time: 2023-11-04 07:28:21
+Object: person, Time: 2023-11-04 07:28:21
+Object: No object detected, Time: 2023-11-04 07:28:21
+Object: No object detected, Time: 2023-11-04 07:28:21
+Object: No object detected, Time: 2023-11-04 07:28:22
+Object: No object detected, Time: 2023-11-04 07:28:22
+Object: No object detected, Time: 2023-11-04 07:28:22
+Object: No object detected, Time: 2023-11-04 07:28:23
+Object: No object detected, Time: 2023-11-04 07:28:23
+Object: No object detected, Time: 2023-11-04 07:28:23
+Object: No object detected, Time: 2023-11-04 07:28:23
+Object: No object detected, Time: 2023-11-04 07:28:24
+Object: No object detected, Time: 2023-11-04 07:28:24
+Object: No object detected, Time: 2023-11-04 07:28:24
+Object: No object detected, Time: 2023-11-04 07:28:24
+Object: No object detected, Time: 2023-11-04 07:28:25
+Object: No object detected, Time: 2023-11-04 07:28:25
+Object: No object detected, Time: 2023-11-04 07:28:25
+Object: No object detected, Time: 2023-11-04 07:28:26
+Object: No object detected, Time: 2023-11-04 07:28:26
+Object: No object detected, Time: 2023-11-04 07:28:26
+Object: No object detected, Time: 2023-11-04 07:28:26
+Object: No object detected, Time: 2023-11-04 07:28:27
+Object: No object detected, Time: 2023-11-04 07:28:27
+Object: No object detected, Time: 2023-11-04 07:28:27
+Object: No object detected, Time: 2023-11-04 07:28:28
+Object: person, Time: 2023-11-04 07:28:28
+Object: person, Time: 2023-11-04 07:28:28
+Object: No object detected, Time: 2023-11-04 07:28:29
+Object: person, Time: 2023-11-04 07:28:29
+Object: No object detected, Time: 2023-11-04 07:28:29
+Object: No object detected, Time: 2023-11-04 07:28:29
+Object: No object detected, Time: 2023-11-04 07:28:30
+Object: person, Time: 2023-11-04 07:28:30
+Object: No object detected, Time: 2023-11-04 07:28:30
+Object: No object detected, Time: 2023-11-04 07:28:31
+Object: No object detected, Time: 2023-11-04 07:28:31
+Object: No object detected, Time: 2023-11-04 07:28:31
+Object: person, Time: 2023-11-04 07:28:32
+Object: person, Time: 2023-11-04 07:28:32
+Object: No object detected, Time: 2023-11-04 07:28:32
+Object: No object detected, Time: 2023-11-04 07:28:32
+Object: No object detected, Time: 2023-11-04 07:28:33
+Object: person, Time: 2023-11-04 07:28:33
+Object: person, Time: 2023-11-04 07:28:33
+Object: person, Time: 2023-11-04 07:28:34
+Object: person, Time: 2023-11-04 07:28:34
+Object: person, Time: 2023-11-04 07:28:34
+Object: person, Time: 2023-11-04 07:28:35
+Object: person, Time: 2023-11-04 07:28:35
+Object: person, Time: 2023-11-04 07:28:35
+Object: No object detected, Time: 2023-11-04 07:28:36
+Object: No object detected, Time: 2023-11-04 07:28:36
+Object: No object detected, Time: 2023-11-04 07:28:36
+Object: No object detected, Time: 2023-11-04 07:28:36
+Object: No object detected, Time: 2023-11-04 07:28:37
+Object: No object detected, Time: 2023-11-04 07:28:37
+Object: No object detected, Time: 2023-11-04 07:28:37
+Object: No object detected, Time: 2023-11-04 07:28:38
+Object: No object detected, Time: 2023-11-04 07:28:38
+Object: No object detected, Time: 2023-11-04 07:28:38
+Object: No object detected, Time: 2023-11-04 07:28:39
+Object: No object detected, Time: 2023-11-04 07:28:39
+Object: No object detected, Time: 2023-11-04 07:28:39
+Object: No object detected, Time: 2023-11-04 07:28:40
+Object: No object detected, Time: 2023-11-04 07:28:40
+Object: No object detected, Time: 2023-11-04 07:28:40
+Object: No object detected, Time: 2023-11-04 07:28:41
+Object: No object detected, Time: 2023-11-04 07:28:41
+Object: No object detected, Time: 2023-11-04 07:28:41
+Object: No object detected, Time: 2023-11-04 07:28:42
+Object: No object detected, Time: 2023-11-04 07:28:42
+Object: person, Time: 2023-11-04 07:28:42
+Object: No object detected, Time: 2023-11-04 07:28:43
+Object: No object detected, Time: 2023-11-04 07:28:43
+Object: No object detected, Time: 2023-11-04 07:28:43
+Object: No object detected, Time: 2023-11-04 07:28:44
+Object: No object detected, Time: 2023-11-04 07:28:44
+Object: No object detected, Time: 2023-11-04 07:28:44
+Object: No object detected, Time: 2023-11-04 07:28:44
+Object: No object detected, Time: 2023-11-04 07:28:45
+Object: No object detected, Time: 2023-11-04 07:28:45
+Object: No object detected, Time: 2023-11-04 07:28:45
+Object: No object detected, Time: 2023-11-04 07:28:46
+Object: No object detected, Time: 2023-11-04 07:28:46
+Object: No object detected, Time: 2023-11-04 07:28:46
+Object: No object detected, Time: 2023-11-04 07:28:46
+Object: No object detected, Time: 2023-11-04 07:28:47
+Object: No object detected, Time: 2023-11-04 07:28:47
+Object: No object detected, Time: 2023-11-04 07:28:47
+Object: No object detected, Time: 2023-11-04 07:28:48
+Object: No object detected, Time: 2023-11-04 07:28:48
+Object: person, Time: 2023-11-04 07:28:48
+Object: No object detected, Time: 2023-11-04 07:28:48
+Object: No object detected, Time: 2023-11-04 07:28:49
+Object: No object detected, Time: 2023-11-04 07:28:49
+Object: No object detected, Time: 2023-11-04 07:28:49
+Object: No object detected, Time: 2023-11-04 07:28:50
+Object: No object detected, Time: 2023-11-04 07:28:50
+Object: No object detected, Time: 2023-11-04 07:28:50
+Object: No object detected, Time: 2023-11-04 07:28:50
+Object: No object detected, Time: 2023-11-04 07:28:51
+Object: person, Time: 2023-11-04 07:28:51
+Object: No object detected, Time: 2023-11-04 07:28:51
+Object: No object detected, Time: 2023-11-04 07:28:51
+Object: No object detected, Time: 2023-11-04 07:28:52
+Object: person, Time: 2023-11-04 07:28:52
+Object: No object detected, Time: 2023-11-04 07:28:52
+Object: No object detected, Time: 2023-11-04 07:28:53
+Object: person, Time: 2023-11-04 07:28:53
+Object: person, Time: 2023-11-04 07:28:53
+Object: No object detected, Time: 2023-11-04 07:28:53
+Object: No object detected, Time: 2023-11-04 07:28:54
+Object: person, Time: 2023-11-04 07:28:54
+Object: No object detected, Time: 2023-11-04 07:28:54
+Object: person, Time: 2023-11-04 07:28:55
+Object: No object detected, Time: 2023-11-04 07:28:55
+Object: person, Time: 2023-11-04 07:28:55
+Object: No object detected, Time: 2023-11-04 07:28:56
+Object: No object detected, Time: 2023-11-04 07:28:56
+Object: No object detected, Time: 2023-11-04 07:28:56
+Object: No object detected, Time: 2023-11-04 07:28:57
+Object: No object detected, Time: 2023-11-04 07:28:57
+Object: person, Time: 2023-11-04 07:28:57
+Object: No object detected, Time: 2023-11-04 07:28:57
+Object: person, Time: 2023-11-04 07:28:58
+Object: person, Time: 2023-11-04 07:28:58
+Object: No object detected, Time: 2023-11-04 07:28:58
+Object: person, Time: 2023-11-04 07:28:59
+Object: No object detected, Time: 2023-11-04 07:28:59
+Object: person, Time: 2023-11-04 07:28:59
+Object: No object detected, Time: 2023-11-04 07:29:00
+Object: No object detected, Time: 2023-11-04 07:29:00
+Object: No object detected, Time: 2023-11-04 07:29:00
+Object: No object detected, Time: 2023-11-04 07:29:01
+Object: person, Time: 2023-11-04 07:29:01
+Object: person, Time: 2023-11-04 07:29:01
+Object: person, Time: 2023-11-04 07:29:01
+Object: No object detected, Time: 2023-11-04 07:29:02
+Object: person, Time: 2023-11-04 07:29:02
+Object: No object detected, Time: 2023-11-04 07:29:02
+Object: No object detected, Time: 2023-11-04 07:29:03
+Object: No object detected, Time: 2023-11-04 07:29:03
+Object: No object detected, Time: 2023-11-04 07:29:03
+Object: No object detected, Time: 2023-11-04 07:29:04
+Object: No object detected, Time: 2023-11-04 07:29:04
+Object: No object detected, Time: 2023-11-04 07:29:04
+Object: No object detected, Time: 2023-11-04 07:29:04
+Object: No object detected, Time: 2023-11-04 07:29:05
+Object: No object detected, Time: 2023-11-04 07:29:05
+Object: No object detected, Time: 2023-11-04 07:29:05
+Object: No object detected, Time: 2023-11-04 07:29:06
+Object: No object detected, Time: 2023-11-04 07:29:06
+Object: No object detected, Time: 2023-11-04 07:29:06
+Object: No object detected, Time: 2023-11-04 07:29:07
+Object: No object detected, Time: 2023-11-04 07:29:07
+Object: No object detected, Time: 2023-11-04 07:29:07
+Object: No object detected, Time: 2023-11-04 07:29:07
+Object: No object detected, Time: 2023-11-04 07:29:08
+Object: No object detected, Time: 2023-11-04 07:29:08
+Object: No object detected, Time: 2023-11-04 07:29:08
+Object: No object detected, Time: 2023-11-04 07:29:09
+Object: No object detected, Time: 2023-11-04 07:29:09
+Object: No object detected, Time: 2023-11-04 07:29:09
+Object: No object detected, Time: 2023-11-04 07:29:09
+Object: No object detected, Time: 2023-11-04 07:29:10
+Object: person, Time: 2023-11-04 07:29:10
+Object: No object detected, Time: 2023-11-04 07:29:10
+Object: No object detected, Time: 2023-11-04 07:29:11
+Object: person, Time: 2023-11-04 07:29:11
+Object: person, Time: 2023-11-04 07:29:11
+Object: person, Time: 2023-11-04 07:29:12
+Object: person, Time: 2023-11-04 07:29:12
+Object: person, Time: 2023-11-04 07:29:12
+Object: person, Time: 2023-11-04 07:29:12
+Object: No object detected, Time: 2023-11-04 07:29:13
+Object: No object detected, Time: 2023-11-04 07:29:13
+Object: No object detected, Time: 2023-11-04 07:29:13
+Object: No object detected, Time: 2023-11-04 07:29:14
+Object: person, Time: 2023-11-04 07:29:14
+Object: No object detected, Time: 2023-11-04 07:29:14
+Object: person, Time: 2023-11-04 07:29:15
+Object: person, Time: 2023-11-04 07:29:15
+Object: person, Time: 2023-11-04 07:29:15
+Object: No object detected, Time: 2023-11-04 07:29:17
+Object: No object detected, Time: 2023-11-04 07:29:17
+Object: No object detected, Time: 2023-11-04 07:29:17
+Object: No object detected, Time: 2023-11-04 07:29:18
+Object: No object detected, Time: 2023-11-04 07:29:18
+Object: No object detected, Time: 2023-11-04 07:29:18
+Object: No object detected, Time: 2023-11-04 07:29:18
+Object: No object detected, Time: 2023-11-04 07:29:19
+Object: No object detected, Time: 2023-11-04 07:29:19
+Object: person, Time: 2023-11-04 07:29:19
+Object: person, Time: 2023-11-04 07:29:20
+Object: person, Time: 2023-11-04 07:29:20
+Object: No object detected, Time: 2023-11-04 07:29:20
+Object: No object detected, Time: 2023-11-04 07:29:20
+Object: No object detected, Time: 2023-11-04 07:29:21
+Object: person, Time: 2023-11-04 07:29:21
+Object: person, Time: 2023-11-04 07:29:21
+Object: person, Time: 2023-11-04 07:29:22
+Object: person, Time: 2023-11-04 07:29:22
+Object: person, Time: 2023-11-04 07:29:22
+Object: person, Time: 2023-11-04 07:29:23
+Object: No object detected, Time: 2023-11-04 07:29:23
+Object: person, Time: 2023-11-04 07:29:23
+Object: person, Time: 2023-11-04 07:29:23
+Object: person, Time: 2023-11-04 07:29:24
+Object: person, Time: 2023-11-04 07:29:24
+Object: person, Time: 2023-11-04 07:29:24
+Object: No object detected, Time: 2023-11-04 07:29:25
+Object: No object detected, Time: 2023-11-04 07:29:25
+Object: No object detected, Time: 2023-11-04 07:29:25
+Object: person, Time: 2023-11-04 07:29:25
+Object: person, Time: 2023-11-04 07:29:26
+Object: No object detected, Time: 2023-11-04 07:29:26
+Object: No object detected, Time: 2023-11-04 07:29:26
+Object: No object detected, Time: 2023-11-04 07:29:27
+Object: No object detected, Time: 2023-11-04 07:29:27
+Object: No object detected, Time: 2023-11-04 07:29:27
+Object: No object detected, Time: 2023-11-04 07:29:28
+Object: No object detected, Time: 2023-11-04 07:29:28
+Object: No object detected, Time: 2023-11-04 07:29:28
+Object: No object detected, Time: 2023-11-04 07:29:28
+Object: No object detected, Time: 2023-11-04 07:29:29
+Object: No object detected, Time: 2023-11-04 07:29:29
+Object: No object detected, Time: 2023-11-04 07:29:29
+Object: No object detected, Time: 2023-11-04 07:29:29
+Object: No object detected, Time: 2023-11-04 07:29:30
+Object: No object detected, Time: 2023-11-04 07:29:30
+Object: No object detected, Time: 2023-11-04 07:29:30
+Object: No object detected, Time: 2023-11-04 07:29:31
+Object: No object detected, Time: 2023-11-04 07:29:31
+Object: No object detected, Time: 2023-11-04 07:29:31
+Object: person, Time: 2023-11-04 07:29:31
+Object: No object detected, Time: 2023-11-04 07:29:32
+Object: No object detected, Time: 2023-11-04 07:29:32
+Object: No object detected, Time: 2023-11-04 07:29:32
+Object: No object detected, Time: 2023-11-04 07:29:33
+Object: person, Time: 2023-11-04 07:29:33
+Object: person, Time: 2023-11-04 07:29:33
+Object: No object detected, Time: 2023-11-04 07:29:34
+Object: No object detected, Time: 2023-11-04 07:29:34
+Object: No object detected, Time: 2023-11-04 07:29:34
+Object: No object detected, Time: 2023-11-04 07:29:35
+Object: person, Time: 2023-11-04 07:29:35
+Object: person, Time: 2023-11-04 07:29:35
+Object: person, Time: 2023-11-04 07:29:36
+Object: person, Time: 2023-11-04 07:29:36
+Object: person, Time: 2023-11-04 07:29:36
+Object: person, Time: 2023-11-04 07:29:36
+Object: No object detected, Time: 2023-11-04 07:29:37
+Object: person, Time: 2023-11-04 07:29:37
+Object: No object detected, Time: 2023-11-04 07:29:37
+Object: No object detected, Time: 2023-11-04 07:29:38
+Object: person, Time: 2023-11-04 07:29:38
+Object: No object detected, Time: 2023-11-04 07:29:38
+Object: No object detected, Time: 2023-11-04 07:29:39
+Object: No object detected, Time: 2023-11-04 07:29:39
+Object: No object detected, Time: 2023-11-04 07:29:39
+Object: No object detected, Time: 2023-11-04 07:29:39
+Object: No object detected, Time: 2023-11-04 07:29:40
+Object: person, Time: 2023-11-04 07:29:40
+Object: No object detected, Time: 2023-11-04 07:29:40
+Object: No object detected, Time: 2023-11-04 07:29:41
+Object: No object detected, Time: 2023-11-04 07:29:41
+Object: No object detected, Time: 2023-11-04 07:29:41
+Object: No object detected, Time: 2023-11-04 07:29:42
+Object: No object detected, Time: 2023-11-04 07:29:42
+Object: No object detected, Time: 2023-11-04 07:29:42
+Object: No object detected, Time: 2023-11-04 07:29:43
+Object: person, Time: 2023-11-04 07:29:43
+Object: No object detected, Time: 2023-11-04 07:29:43
+Object: No object detected, Time: 2023-11-04 07:29:44
+Object: No object detected, Time: 2023-11-04 07:29:44
+Object: No object detected, Time: 2023-11-04 07:29:44
+Object: No object detected, Time: 2023-11-04 07:29:44
+Object: No object detected, Time: 2023-11-04 07:29:45
+Object: No object detected, Time: 2023-11-04 07:29:45
+Object: person, Time: 2023-11-04 07:43:48
+Object: person, Time: 2023-11-04 07:43:48
+Object: person, Time: 2023-11-04 07:43:49
+Object: person, Time: 2023-11-04 07:43:49
+Object: person, Time: 2023-11-04 07:43:49
+Object: person, Time: 2023-11-04 07:43:50
+Object: person, Time: 2023-11-04 07:43:50
+Object: person, Time: 2023-11-04 07:43:50
+Object: person, Time: 2023-11-04 07:43:50
+Object: person, Time: 2023-11-04 07:43:51
+Object: person, Time: 2023-11-04 07:43:51
+Object: person, Time: 2023-11-04 07:43:51
+Object: person, Time: 2023-11-04 07:43:51
+Object: person, Time: 2023-11-04 07:43:52
+Object: person, Time: 2023-11-04 07:43:52
+Object: person, Time: 2023-11-04 07:43:52
+Object: person, Time: 2023-11-04 07:43:53
+Object: person, Time: 2023-11-04 07:43:53
+Object: person, Time: 2023-11-04 07:43:53
+Object: person, Time: 2023-11-04 07:43:54
+Object: person, Time: 2023-11-04 07:43:54
+Object: person, Time: 2023-11-04 07:43:54
+Object: person, Time: 2023-11-04 07:43:54
+Object: person, Time: 2023-11-04 07:43:55
+Object: person, Time: 2023-11-04 07:43:55
+Object: person, Time: 2023-11-04 07:43:55
+Object: person, Time: 2023-11-04 07:43:55
+Object: person, Time: 2023-11-04 07:43:56
+Object: person, Time: 2023-11-04 07:43:56
+Object: person, Time: 2023-11-04 07:43:56
+Object: person, Time: 2023-11-04 07:43:57
+Object: person, Time: 2023-11-04 07:43:57
+Object: person, Time: 2023-11-04 07:43:57
+Object: person, Time: 2023-11-04 07:43:57
+Object: person, Time: 2023-11-04 07:43:58
+Object: person, Time: 2023-11-04 07:43:58
+Object: person, Time: 2023-11-04 07:43:58
+Object: person, Time: 2023-11-04 07:43:59
+Object: person, Time: 2023-11-04 07:43:59
+Object: person, Time: 2023-11-04 07:43:59
+Object: person, Time: 2023-11-04 07:43:59
+Object: person, Time: 2023-11-04 07:44:00
+Object: person, Time: 2023-11-04 07:44:00
+Object: person, Time: 2023-11-04 07:44:00
+Object: person, Time: 2023-11-04 07:44:01
+Object: person, Time: 2023-11-04 07:44:01
+Object: person, Time: 2023-11-04 07:44:01
+Object: person, Time: 2023-11-04 07:44:02
+Object: person, Time: 2023-11-04 07:44:02
+Object: person, Time: 2023-11-04 07:44:02
+Object: person, Time: 2023-11-04 07:44:03
+Object: person, Time: 2023-11-04 07:44:03
+Object: person, Time: 2023-11-04 07:44:03
+Object: person, Time: 2023-11-04 07:44:04
+Object: person, Time: 2023-11-04 07:44:04
+Object: person, Time: 2023-11-04 07:44:04
+Object: person, Time: 2023-11-04 07:44:04
+Object: person, Time: 2023-11-04 07:44:05
+Object: person, Time: 2023-11-04 07:44:05
+Object: person, Time: 2023-11-04 07:44:05
+Object: person, Time: 2023-11-04 07:44:06
+Object: person, Time: 2023-11-04 07:44:06
+Object: person, Time: 2023-11-04 07:44:06
+Object: person, Time: 2023-11-04 07:44:07
+Object: person, Time: 2023-11-04 07:44:07
+Object: person, Time: 2023-11-04 07:44:07
+Object: person, Time: 2023-11-04 07:44:08
+Object: person, Time: 2023-11-04 07:44:09
+Object: person, Time: 2023-11-04 07:44:09
+Object: person, Time: 2023-11-04 07:44:10
+Object: person, Time: 2023-11-04 07:44:10
+Object: person, Time: 2023-11-04 07:44:10
+Object: person, Time: 2023-11-04 07:44:11
+Object: person, Time: 2023-11-04 07:44:11
+Object: person, Time: 2023-11-04 07:44:11
+Object: person, Time: 2023-11-04 07:44:11
+Object: person, Time: 2023-11-04 07:44:12
+Object: person, Time: 2023-11-04 07:44:12
+Object: person, Time: 2023-11-04 07:44:12
+Object: person, Time: 2023-11-04 07:44:13
+Object: person, Time: 2023-11-04 07:44:13
+Object: person, Time: 2023-11-04 07:44:13
+Object: person, Time: 2023-11-04 07:44:14
+Object: person, Time: 2023-11-04 07:44:14
+Object: person, Time: 2023-11-04 07:44:14
+Object: person, Time: 2023-11-04 07:44:15
+Object: person, Time: 2023-11-04 07:44:15
+Object: person, Time: 2023-11-04 07:44:15
+Object: person, Time: 2023-11-04 07:44:16
+Object: person, Time: 2023-11-04 07:44:16
+Object: person, Time: 2023-11-04 07:44:16
+Object: person, Time: 2023-11-04 07:44:16
+Object: person, Time: 2023-11-04 07:44:17
+Object: person, Time: 2023-11-04 07:44:17
+Object: person, Time: 2023-11-04 07:44:17
+Object: person, Time: 2023-11-04 07:44:18
+Object: person, Time: 2023-11-04 07:44:18
+Object: person, Time: 2023-11-04 07:44:18
+Object: person, Time: 2023-11-04 07:44:19
+Object: person, Time: 2023-11-04 07:44:19
+Object: person, Time: 2023-11-04 07:44:19
+Object: person, Time: 2023-11-04 07:44:20
+Object: person, Time: 2023-11-04 07:44:20
+Object: person, Time: 2023-11-04 07:44:20
+Object: person, Time: 2023-11-04 07:44:21
+Object: person, Time: 2023-11-04 07:44:21
+Object: No object detected, Time: 2023-11-04 07:44:21
+Object: person, Time: 2023-11-04 07:44:22
+Object: person, Time: 2023-11-04 07:44:22
+Object: person, Time: 2023-11-04 07:44:22
+Object: person, Time: 2023-11-04 07:44:23
+Object: person, Time: 2023-11-04 07:44:23
+Object: person, Time: 2023-11-04 07:44:23
+Object: person, Time: 2023-11-04 07:44:23
+Object: person, Time: 2023-11-04 07:44:24
+Object: person, Time: 2023-11-04 07:44:24
+Object: person, Time: 2023-11-04 07:44:24
+Object: person, Time: 2023-11-04 07:44:25
+Object: person, Time: 2023-11-04 07:44:25
+Object: person, Time: 2023-11-04 07:44:25
+Object: person, Time: 2023-11-04 07:44:26
+Object: person, Time: 2023-11-04 07:44:26
+Object: person, Time: 2023-11-04 07:44:26
+Object: person, Time: 2023-11-04 07:44:27
+Object: person, Time: 2023-11-04 07:44:27
+Object: person, Time: 2023-11-04 07:44:27
+Object: person, Time: 2023-11-04 07:44:28
+Object: person, Time: 2023-11-04 07:44:28
+Object: person, Time: 2023-11-04 07:44:28
+Object: person, Time: 2023-11-04 07:44:28
+Object: person, Time: 2023-11-04 07:44:29
+Object: person, Time: 2023-11-04 07:44:29
+Object: person, Time: 2023-11-04 07:44:30
+Object: person, Time: 2023-11-04 07:44:30
+Object: person, Time: 2023-11-04 07:44:31
+Object: person, Time: 2023-11-04 07:44:31
+Object: person, Time: 2023-11-04 07:44:31
+Object: person, Time: 2023-11-04 07:49:05
+Object: person, Time: 2023-11-04 07:49:05
+Object: person, Time: 2023-11-04 07:49:06
+Object: person, Time: 2023-11-04 07:49:06
+Object: person, Time: 2023-11-04 07:49:06
+Object: person, Time: 2023-11-04 07:49:07
+Object: person, Time: 2023-11-04 07:49:07
+Object: No object detected, Time: 2023-11-04 07:49:07
+Object: No object detected, Time: 2023-11-04 07:49:08
+Object: No object detected, Time: 2023-11-04 07:49:08
+Object: person, Time: 2023-11-04 07:49:08
+Object: person, Time: 2023-11-04 07:49:09
+Object: No object detected, Time: 2023-11-04 07:49:09
+Object: person, Time: 2023-11-04 07:49:10
+Object: person, Time: 2023-11-04 07:49:10
+Object: person, Time: 2023-11-04 07:49:11
+Object: No object detected, Time: 2023-11-04 07:49:11
+Object: person, Time: 2023-11-04 07:49:12
+Object: person, Time: 2023-11-04 07:49:12
+Object: person, Time: 2023-11-04 07:49:12
+Object: person, Time: 2023-11-04 07:49:13
+Object: person, Time: 2023-11-04 07:49:13
+Object: person, Time: 2023-11-04 07:49:13
+Object: person, Time: 2023-11-04 07:49:14
+Object: person, Time: 2023-11-04 07:49:14
+Object: person, Time: 2023-11-04 07:49:15
+Object: person, Time: 2023-11-04 07:49:15
+Object: person, Time: 2023-11-04 07:49:15
+Object: person, Time: 2023-11-04 07:49:15
+Object: person, Time: 2023-11-04 07:49:16
+Object: person, Time: 2023-11-04 07:49:16
+Object: person, Time: 2023-11-04 07:49:16
+Object: person, Time: 2023-11-04 07:49:17
+Object: person, Time: 2023-11-04 07:49:17
+Object: person, Time: 2023-11-04 07:49:17
+Object: No object detected, Time: 2023-11-04 07:49:18
+Object: No object detected, Time: 2023-11-04 07:49:18
+Object: No object detected, Time: 2023-11-04 07:49:18
+Object: person, Time: 2023-11-04 07:49:19
+Object: person, Time: 2023-11-04 07:49:19
+Object: No object detected, Time: 2023-11-04 07:49:19
+Object: No object detected, Time: 2023-11-04 07:49:20
+Object: No object detected, Time: 2023-11-04 07:49:20
+Object: No object detected, Time: 2023-11-04 07:49:20
+Object: No object detected, Time: 2023-11-04 07:49:20
+Object: No object detected, Time: 2023-11-04 07:49:21
+Object: No object detected, Time: 2023-11-04 07:49:21
+Object: person, Time: 2023-11-04 07:49:21
+Object: person, Time: 2023-11-04 07:49:22
+Object: person, Time: 2023-11-04 07:49:22
+Object: No object detected, Time: 2023-11-04 07:49:23
+Object: person, Time: 2023-11-04 07:49:23
+Object: No object detected, Time: 2023-11-04 07:49:23
+Object: person, Time: 2023-11-04 07:49:24
+Object: No object detected, Time: 2023-11-04 07:49:24
+Object: No object detected, Time: 2023-11-04 07:49:24
+Object: person, Time: 2023-11-04 07:49:24
+Object: person, Time: 2023-11-04 07:49:25
+Object: person, Time: 2023-11-04 07:49:25
+Object: person, Time: 2023-11-04 07:49:25
+Object: person, Time: 2023-11-04 07:49:26
+Object: No object detected, Time: 2023-11-04 07:49:26
+Object: No object detected, Time: 2023-11-04 07:49:26
+Object: person, Time: 2023-11-04 07:49:27
+Object: person, Time: 2023-11-04 07:49:27
+Object: person, Time: 2023-11-04 07:49:27
+Object: person, Time: 2023-11-04 07:49:28
+Object: person, Time: 2023-11-04 07:49:28
+Object: person, Time: 2023-11-04 07:49:28
+Object: person, Time: 2023-11-04 07:49:29
+Object: No object detected, Time: 2023-11-04 07:49:29
+Object: person, Time: 2023-11-04 07:49:29
+Object: person, Time: 2023-11-04 07:49:30
+Object: person, Time: 2023-11-04 07:49:30
+Object: person, Time: 2023-11-04 07:49:30
+Object: No object detected, Time: 2023-11-04 07:49:31
+Object: person, Time: 2023-11-04 07:49:31
+Object: No object detected, Time: 2023-11-04 07:49:31
+Object: person, Time: 2023-11-04 07:49:32
+Object: No object detected, Time: 2023-11-04 07:49:32
+Object: No object detected, Time: 2023-11-04 07:49:33
+Object: No object detected, Time: 2023-11-04 07:49:33
+Object: person, Time: 2023-11-04 07:49:33
+Object: person, Time: 2023-11-04 07:49:34
+Object: No object detected, Time: 2023-11-04 07:49:34
+Object: person, Time: 2023-11-04 07:49:34
+Object: person, Time: 2023-11-04 07:49:35
+Object: No object detected, Time: 2023-11-04 07:49:35
+Object: person, Time: 2023-11-04 07:49:35
+Object: person, Time: 2023-11-04 07:49:36
+Object: No object detected, Time: 2023-11-04 07:49:36
+Object: person, Time: 2023-11-04 07:49:36
+Object: No object detected, Time: 2023-11-04 07:49:37
+Object: person, Time: 2023-11-04 07:49:37
+Object: person, Time: 2023-11-04 07:49:37
+Object: person, Time: 2023-11-04 07:49:38
+Object: person, Time: 2023-11-04 07:49:38
+Object: No object detected, Time: 2023-11-04 07:49:38
+Object: person, Time: 2023-11-04 07:49:39
+Object: person, Time: 2023-11-04 07:49:39
+Object: person, Time: 2023-11-04 07:49:39
+Object: person, Time: 2023-11-04 07:49:40
+Object: person, Time: 2023-11-04 07:49:40
+Object: No object detected, Time: 2023-11-04 07:49:40
+Object: No object detected, Time: 2023-11-04 07:49:41
+Object: No object detected, Time: 2023-11-04 07:49:41
+Object: No object detected, Time: 2023-11-04 07:49:41
+Object: person, Time: 2023-11-04 07:49:42
+Object: person, Time: 2023-11-04 07:49:42
+Object: person, Time: 2023-11-04 07:49:42
+Object: person, Time: 2023-11-04 07:49:43
+Object: person, Time: 2023-11-04 07:49:43
+Object: person, Time: 2023-11-04 07:49:44
+Object: person, Time: 2023-11-04 07:49:44
+Object: person, Time: 2023-11-04 07:49:44
+Object: person, Time: 2023-11-04 07:49:45
+Object: person, Time: 2023-11-04 07:49:45
+Object: No object detected, Time: 2023-11-04 07:49:46
+Object: person, Time: 2023-11-04 07:49:46
+Object: person, Time: 2023-11-04 07:49:47
+Object: No object detected, Time: 2023-11-04 07:49:47
+Object: person, Time: 2023-11-04 07:49:48
+Object: person, Time: 2023-11-04 07:49:48
+Object: No object detected, Time: 2023-11-04 07:49:48
+Object: person, Time: 2023-11-04 07:49:49
+Object: person, Time: 2023-11-04 07:49:49
+Object: person, Time: 2023-11-04 07:49:49
+Object: person, Time: 2023-11-04 07:49:50
+Object: person, Time: 2023-11-04 07:49:50
+Object: person, Time: 2023-11-04 07:49:50
+Object: person, Time: 2023-11-04 07:49:51
+Object: person, Time: 2023-11-04 07:49:51
+Object: person, Time: 2023-11-04 07:49:51
+Object: person, Time: 2023-11-04 07:49:51
+Object: person, Time: 2023-11-04 07:49:52
+Object: person, Time: 2023-11-04 07:49:52
+Object: person, Time: 2023-11-04 07:49:53
+Object: person, Time: 2023-11-04 07:49:53
+Object: person, Time: 2023-11-04 07:49:53
+Object: person, Time: 2023-11-04 07:49:54
+Object: person, Time: 2023-11-04 07:49:54
+Object: person, Time: 2023-11-04 07:49:55
+Object: person, Time: 2023-11-04 07:49:55
+Object: person, Time: 2023-11-04 07:49:55
+Object: person, Time: 2023-11-04 07:49:56
+Object: person, Time: 2023-11-04 07:49:56
+Object: person, Time: 2023-11-04 07:49:57
+Object: person, Time: 2023-11-04 07:49:57
+Object: person, Time: 2023-11-04 07:49:58
+Object: person, Time: 2023-11-04 07:49:58
+Object: person, Time: 2023-11-04 07:49:59
+Object: person, Time: 2023-11-04 07:50:00
+Object: person, Time: 2023-11-04 07:50:00
+Object: person, Time: 2023-11-04 07:50:01
+Object: person, Time: 2023-11-04 07:50:01
+Object: No object detected, Time: 2023-11-04 07:50:02
+Object: person, Time: 2023-11-04 07:50:02
+Object: person, Time: 2023-11-04 07:50:02
+Object: person, Time: 2023-11-04 07:50:03
+Object: person, Time: 2023-11-04 07:50:03
+Object: person, Time: 2023-11-04 07:50:03
+Object: person, Time: 2023-11-04 07:50:04
+Object: person, Time: 2023-11-04 07:50:04
+Object: person, Time: 2023-11-04 07:50:04
+Object: No object detected, Time: 2023-11-04 07:50:05
+Object: person, Time: 2023-11-04 07:50:06
+Object: No object detected, Time: 2023-11-04 07:50:06
+Object: person, Time: 2023-11-04 07:50:06
+Object: person, Time: 2023-11-04 07:50:07
+Object: person, Time: 2023-11-04 07:50:07
+Object: person, Time: 2023-11-04 07:50:07
+Object: person, Time: 2023-11-04 07:50:08
+Object: person, Time: 2023-11-04 07:50:08
+Object: person, Time: 2023-11-04 07:50:08
+Object: No object detected, Time: 2023-11-04 07:50:09
+Object: No object detected, Time: 2023-11-04 07:50:09
+Object: person, Time: 2023-11-04 07:50:09
+Object: person, Time: 2023-11-04 07:50:10
+Object: person, Time: 2023-11-04 07:50:10
+Object: person, Time: 2023-11-04 07:50:10
+Object: person, Time: 2023-11-04 07:50:11
+Object: person, Time: 2023-11-04 07:50:11
+Object: person, Time: 2023-11-04 07:50:11
+Object: person, Time: 2023-11-04 07:50:12
+Object: person, Time: 2023-11-04 07:50:12
+Object: person, Time: 2023-11-04 07:50:13
+Object: person, Time: 2023-11-04 07:50:13
+Object: person, Time: 2023-11-04 07:50:14
+Object: person, Time: 2023-11-04 07:50:15
+Object: person, Time: 2023-11-04 07:50:15
+Object: person, Time: 2023-11-04 07:50:15
+Object: person, Time: 2023-11-04 07:50:16
+Object: person, Time: 2023-11-04 07:50:16
+Object: person, Time: 2023-11-04 07:50:16
+Object: person, Time: 2023-11-04 07:50:17
+Object: person, Time: 2023-11-04 07:50:17
+Object: person, Time: 2023-11-04 07:50:17
+Object: person, Time: 2023-11-04 07:50:18
+Object: person, Time: 2023-11-04 07:50:18
+Object: person, Time: 2023-11-04 07:50:18
+Object: person, Time: 2023-11-04 07:50:19
+Object: person, Time: 2023-11-04 07:50:19
+Object: No object detected, Time: 2023-11-04 07:50:19
+Object: person, Time: 2023-11-04 07:50:19
+Object: person, Time: 2023-11-04 07:50:20
+Object: person, Time: 2023-11-04 07:50:20
+Object: No object detected, Time: 2023-11-04 07:50:21
+Object: person, Time: 2023-11-04 07:50:21
+Object: person, Time: 2023-11-04 07:50:21
+Object: person, Time: 2023-11-04 07:50:22
+Object: No object detected, Time: 2023-11-04 07:50:22
+Object: No object detected, Time: 2023-11-04 07:50:22
+Object: person, Time: 2023-11-04 07:50:23
+Object: person, Time: 2023-11-04 07:50:23
+Object: person, Time: 2023-11-04 07:50:24
+Object: person, Time: 2023-11-04 07:50:24
+Object: person, Time: 2023-11-04 07:50:24
+Object: person, Time: 2023-11-04 07:50:24
+Object: person, Time: 2023-11-04 07:50:25
+Object: person, Time: 2023-11-04 07:50:25
+Object: person, Time: 2023-11-04 07:50:25
+Object: person, Time: 2023-11-04 07:50:26
+Object: person, Time: 2023-11-04 07:50:26
+Object: person, Time: 2023-11-04 07:50:27
+Object: person, Time: 2023-11-04 07:50:27
+Object: person, Time: 2023-11-04 07:50:27
+Object: person, Time: 2023-11-04 07:50:28
+Object: person, Time: 2023-11-04 07:50:28
+Object: person, Time: 2023-11-04 07:50:28
+Object: person, Time: 2023-11-04 07:50:29
+Object: person, Time: 2023-11-04 07:50:29
+Object: person, Time: 2023-11-04 07:50:29
+Object: person, Time: 2023-11-04 07:50:29
+Object: person, Time: 2023-11-04 07:50:30
+Object: person, Time: 2023-11-04 07:50:30
+Object: No object detected, Time: 2023-11-04 07:50:30
+Object: No object detected, Time: 2023-11-04 07:50:31
+Object: person, Time: 2023-11-04 07:50:31
+Object: No object detected, Time: 2023-11-04 07:50:31
+Object: No object detected, Time: 2023-11-04 07:50:32
+Object: No object detected, Time: 2023-11-04 07:50:32
+Object: person, Time: 2023-11-04 07:50:32
+Object: person, Time: 2023-11-04 07:50:33
+Object: No object detected, Time: 2023-11-04 07:50:33
+Object: No object detected, Time: 2023-11-04 07:50:33
+Object: No object detected, Time: 2023-11-04 07:50:34
+Object: person, Time: 2023-11-04 07:50:34
+Object: person, Time: 2023-11-04 07:50:34
+Object: No object detected, Time: 2023-11-04 07:50:35
+Object: No object detected, Time: 2023-11-04 07:50:35
+Object: person, Time: 2023-11-04 07:50:36
+Object: person, Time: 2023-11-04 07:50:36
+Object: person, Time: 2023-11-04 07:50:36
+Object: person, Time: 2023-11-04 07:50:37
+Object: person, Time: 2023-11-04 07:50:37
+Object: No object detected, Time: 2023-11-04 07:50:37
+Object: No object detected, Time: 2023-11-04 07:50:37
+Object: person, Time: 2023-11-04 07:50:38
+Object: person, Time: 2023-11-04 07:50:38
+Object: person, Time: 2023-11-04 07:50:38
+Object: person, Time: 2023-11-04 07:50:39
+Object: No object detected, Time: 2023-11-04 07:50:39
+Object: person, Time: 2023-11-04 07:50:39
+Object: person, Time: 2023-11-04 07:50:40
+Object: No object detected, Time: 2023-11-04 07:50:40
+Object: No object detected, Time: 2023-11-04 07:50:40
+Object: person, Time: 2023-11-04 07:50:41
+Object: person, Time: 2023-11-04 07:50:41
+Object: person, Time: 2023-11-04 07:50:42
+Object: No object detected, Time: 2023-11-04 07:50:42
+Object: person, Time: 2023-11-04 07:50:42
+Object: person, Time: 2023-11-04 07:50:43
+Object: No object detected, Time: 2023-11-04 07:50:43
+Object: No object detected, Time: 2023-11-04 07:50:43
+Object: No object detected, Time: 2023-11-04 07:50:44
+Object: No object detected, Time: 2023-11-04 07:50:44
+Object: person, Time: 2023-11-04 07:50:44
+Object: person, Time: 2023-11-04 07:50:45
+Object: person, Time: 2023-11-04 07:50:45
+Object: person, Time: 2023-11-04 07:50:46
+Object: No object detected, Time: 2023-11-04 07:50:46
+Object: No object detected, Time: 2023-11-04 07:50:46
+Object: person, Time: 2023-11-04 07:50:47
+Object: No object detected, Time: 2023-11-04 07:50:47
+Object: No object detected, Time: 2023-11-04 07:50:47
+Object: person, Time: 2023-11-04 07:50:47
+Object: person, Time: 2023-11-04 07:50:48
+Object: No object detected, Time: 2023-11-04 07:50:48
+Object: No object detected, Time: 2023-11-04 07:50:48
+Object: No object detected, Time: 2023-11-04 07:50:49
+Object: person, Time: 2023-11-04 07:50:49
+Object: person, Time: 2023-11-04 07:50:49
+Object: No object detected, Time: 2023-11-04 07:50:50
+Object: person, Time: 2023-11-04 07:50:50
+Object: No object detected, Time: 2023-11-04 07:50:50
+Object: No object detected, Time: 2023-11-04 07:50:51
+Object: No object detected, Time: 2023-11-04 07:50:51
+Object: No object detected, Time: 2023-11-04 07:50:52
+Object: person, Time: 2023-11-04 07:50:52
+Object: person, Time: 2023-11-04 07:50:53
+Object: No object detected, Time: 2023-11-04 07:50:53
+Object: person, Time: 2023-11-04 07:50:53
+Object: person, Time: 2023-11-04 07:50:54
+Object: No object detected, Time: 2023-11-04 07:50:54
+Object: person, Time: 2023-11-04 07:50:54
+Object: person, Time: 2023-11-04 07:50:55
+Object: person, Time: 2023-11-04 07:50:55
+Object: person, Time: 2023-11-04 07:50:55
+Object: No object detected, Time: 2023-11-04 07:50:56
+Object: person, Time: 2023-11-04 07:50:56
+Object: person, Time: 2023-11-04 07:50:56
+Object: person, Time: 2023-11-04 07:50:57
+Object: person, Time: 2023-11-04 07:50:57
+Object: person, Time: 2023-11-04 07:50:57
+Object: No object detected, Time: 2023-11-04 07:50:58
+Object: No object detected, Time: 2023-11-04 07:50:58
+Object: person, Time: 2023-11-04 07:50:58
+Object: person, Time: 2023-11-04 07:50:59
+Object: person, Time: 2023-11-04 07:50:59
+Object: No object detected, Time: 2023-11-04 07:50:59
+Object: No object detected, Time: 2023-11-04 07:51:00
+Object: No object detected, Time: 2023-11-04 07:51:00
+Object: No object detected, Time: 2023-11-04 07:51:00
+Object: No object detected, Time: 2023-11-04 07:51:01
+Object: No object detected, Time: 2023-11-04 07:51:01
+Object: No object detected, Time: 2023-11-04 07:51:01
+Object: No object detected, Time: 2023-11-04 07:51:02
+Object: No object detected, Time: 2023-11-04 07:53:42
+Object: person, Time: 2023-11-04 07:53:42
+Object: person, Time: 2023-11-04 07:53:42
+Object: person, Time: 2023-11-04 07:53:43
+Object: person, Time: 2023-11-04 07:53:43
+Object: person, Time: 2023-11-04 07:53:43
+Object: person, Time: 2023-11-04 07:53:44
+Object: person, Time: 2023-11-04 07:53:44
+Object: person, Time: 2023-11-04 07:53:45
+Object: person, Time: 2023-11-04 07:53:45
+Object: No object detected, Time: 2023-11-04 07:53:46
+Object: No object detected, Time: 2023-11-04 07:53:46
+Object: No object detected, Time: 2023-11-04 07:53:46
+Object: person, Time: 2023-11-04 07:53:47
+Object: person, Time: 2023-11-04 07:53:47
+Object: person, Time: 2023-11-04 07:53:48
+Object: person, Time: 2023-11-04 07:53:48
+Object: person, Time: 2023-11-04 07:53:49
+Object: person, Time: 2023-11-04 07:53:49
+Object: person, Time: 2023-11-04 07:53:50
+Object: person, Time: 2023-11-04 07:53:50
+Object: person, Time: 2023-11-04 07:53:50
+Object: person, Time: 2023-11-04 07:53:51
+Object: person, Time: 2023-11-04 07:53:51
+Object: No object detected, Time: 2023-11-04 07:53:52
+Object: No object detected, Time: 2023-11-04 07:53:52
+Object: person, Time: 2023-11-04 07:53:53
+Object: person, Time: 2023-11-04 07:53:53
+Object: person, Time: 2023-11-04 07:53:53
+Object: person, Time: 2023-11-04 07:53:54
+Object: person, Time: 2023-11-04 07:53:55
+Object: person, Time: 2023-11-04 07:53:55
+Object: person, Time: 2023-11-04 07:53:55
+Object: person, Time: 2023-11-04 07:53:56
+Object: person, Time: 2023-11-04 07:53:56
+Object: person, Time: 2023-11-04 07:53:57
+Object: person, Time: 2023-11-04 07:53:57
+Object: person, Time: 2023-11-04 07:53:58
+Object: No object detected, Time: 2023-11-04 07:53:58
+Object: No object detected, Time: 2023-11-04 07:53:58
+Object: person, Time: 2023-11-04 07:53:59
+Object: person, Time: 2023-11-04 07:53:59
+Object: person, Time: 2023-11-04 07:54:00
+Object: No object detected, Time: 2023-11-04 07:54:00
+Object: person, Time: 2023-11-04 07:54:01
+Object: person, Time: 2023-11-04 07:54:01
+Object: person, Time: 2023-11-04 07:54:01
+Object: person, Time: 2023-11-04 07:54:02
+Object: person, Time: 2023-11-04 07:54:02
+Object: No object detected, Time: 2023-11-04 07:54:03
+Object: person, Time: 2023-11-04 07:54:03
+Object: person, Time: 2023-11-04 07:54:04
+Object: person, Time: 2023-11-04 07:54:04
+Object: person, Time: 2023-11-04 07:54:04
+Object: person, Time: 2023-11-04 07:54:05
+Object: person, Time: 2023-11-04 07:54:05
+Object: person, Time: 2023-11-04 08:57:18
+Object: person, Time: 2023-11-04 08:57:19
+Object: No object detected, Time: 2023-11-04 08:57:19
+Object: person, Time: 2023-11-04 08:57:19
+Object: No object detected, Time: 2023-11-04 08:57:20
+Object: No object detected, Time: 2023-11-04 08:57:20
+Object: person, Time: 2023-11-04 08:57:20
+Object: person, Time: 2023-11-04 08:57:21
+Object: person, Time: 2023-11-04 08:57:21
+Object: person, Time: 2023-11-04 08:57:21
+Object: person, Time: 2023-11-04 08:57:22
+Object: person, Time: 2023-11-04 08:57:22
+Object: person, Time: 2023-11-04 08:57:22
+Object: person, Time: 2023-11-04 08:57:22
+Object: No object detected, Time: 2023-11-04 08:57:23
+Object: No object detected, Time: 2023-11-04 08:57:23
+Object: No object detected, Time: 2023-11-04 08:57:23
+Object: No object detected, Time: 2023-11-04 08:57:24
+Object: No object detected, Time: 2023-11-04 08:57:24
+Object: No object detected, Time: 2023-11-04 08:57:24
+Object: No object detected, Time: 2023-11-04 08:57:24
+Object: No object detected, Time: 2023-11-04 08:57:25
+Object: No object detected, Time: 2023-11-04 08:57:25
+Object: person, Time: 2023-11-04 08:57:25
+Object: person, Time: 2023-11-04 08:57:26
+Object: person, Time: 2023-11-04 08:57:26
+Object: person, Time: 2023-11-04 08:57:26
+Object: person, Time: 2023-11-04 08:57:26
+Object: person, Time: 2023-11-04 08:57:27
+Object: person, Time: 2023-11-04 08:57:27
+Object: person, Time: 2023-11-04 08:57:27
+Object: person, Time: 2023-11-04 08:57:27
+Object: person, Time: 2023-11-04 08:57:28
+Object: No object detected, Time: 2023-11-04 08:57:28
+Object: No object detected, Time: 2023-11-04 08:57:28
+Object: No object detected, Time: 2023-11-04 08:57:29
+Object: No object detected, Time: 2023-11-04 08:57:29
+Object: person, Time: 2023-11-04 08:57:29
+Object: No object detected, Time: 2023-11-04 08:57:29
+Object: No object detected, Time: 2023-11-04 08:57:30
+Object: No object detected, Time: 2023-11-04 08:57:30
+Object: person, Time: 2023-11-04 08:57:30
+Object: person, Time: 2023-11-04 08:57:30
+Object: person, Time: 2023-11-04 08:57:31
+Object: person, Time: 2023-11-04 08:57:31
+Object: person, Time: 2023-11-04 08:57:31
+Object: person, Time: 2023-11-04 08:57:32
+Object: person, Time: 2023-11-04 08:57:32
+Object: person, Time: 2023-11-04 08:57:32
+Object: person, Time: 2023-11-04 08:57:32
+Object: person, Time: 2023-11-04 08:57:33
+Object: person, Time: 2023-11-04 08:57:33
+Object: person, Time: 2023-11-04 08:57:33
+Object: person, Time: 2023-11-04 08:57:34
+Object: person, Time: 2023-11-04 08:57:34
+Object: person, Time: 2023-11-04 08:57:34
+Object: person, Time: 2023-11-04 08:57:34
+Object: person, Time: 2023-11-04 08:57:35
+Object: person, Time: 2023-11-04 08:57:35
+Object: No object detected, Time: 2023-11-04 08:57:35
+Object: person, Time: 2023-11-04 08:57:35
+Object: person, Time: 2023-11-04 08:57:36
+Object: No object detected, Time: 2023-11-04 08:57:36
+Object: No object detected, Time: 2023-11-04 08:57:36
+Object: person, Time: 2023-11-04 08:57:37
+Object: No object detected, Time: 2023-11-04 08:57:37
+Object: person, Time: 2023-11-04 08:57:37
+Object: person, Time: 2023-11-04 08:57:37
+Object: person, Time: 2023-11-04 08:57:38
+Object: No object detected, Time: 2023-11-04 08:57:38
+Object: No object detected, Time: 2023-11-04 08:57:38
+Object: person, Time: 2023-11-04 08:57:39
+Object: person, Time: 2023-11-04 08:57:39
+Object: person, Time: 2023-11-04 08:57:39
+Object: person, Time: 2023-11-04 08:57:39
+Object: person, Time: 2023-11-04 08:57:40
+Object: person, Time: 2023-11-04 08:57:40
+Object: person, Time: 2023-11-04 08:57:40
+Object: person, Time: 2023-11-04 08:57:41
+Object: person, Time: 2023-11-04 08:57:41
+Object: person, Time: 2023-11-04 08:57:41
+Object: person, Time: 2023-11-04 08:57:41
+Object: person, Time: 2023-11-04 08:57:42
+Object: person, Time: 2023-11-04 08:57:42
+Object: person, Time: 2023-11-04 08:57:42
+Object: person, Time: 2023-11-04 08:57:43
+Object: person, Time: 2023-11-04 08:57:43
+Object: person, Time: 2023-11-04 08:57:43
+Object: person, Time: 2023-11-04 08:57:43
+Object: person, Time: 2023-11-04 08:57:44
+Object: No object detected, Time: 2023-11-04 08:57:44
+Object: person, Time: 2023-11-04 08:57:44
+Object: person, Time: 2023-11-04 08:57:44
+Object: person, Time: 2023-11-04 08:57:45
+Object: person, Time: 2023-11-04 08:57:45
+Object: person, Time: 2023-11-04 08:57:45
+Object: person, Time: 2023-11-04 08:57:46
+Object: person, Time: 2023-11-04 08:57:46
+Object: person, Time: 2023-11-04 08:57:46
+Object: No object detected, Time: 2023-11-04 08:57:46
+Object: No object detected, Time: 2023-11-04 08:57:47
+Object: No object detected, Time: 2023-11-04 08:57:47
+Object: No object detected, Time: 2023-11-04 08:57:47
+Object: No object detected, Time: 2023-11-04 08:57:48
+Object: No object detected, Time: 2023-11-04 08:57:48
+Object: No object detected, Time: 2023-11-04 08:57:48
+Object: No object detected, Time: 2023-11-04 08:57:48
+Object: No object detected, Time: 2023-11-04 08:57:49
+Object: No object detected, Time: 2023-11-04 08:57:49
+Object: No object detected, Time: 2023-11-04 08:57:49
+Object: No object detected, Time: 2023-11-04 08:57:50
+Object: No object detected, Time: 2023-11-04 08:57:50
+Object: No object detected, Time: 2023-11-04 08:57:50
+Object: No object detected, Time: 2023-11-04 08:57:50
+Object: No object detected, Time: 2023-11-04 08:57:51
+Object: No object detected, Time: 2023-11-04 08:57:51
+Object: No object detected, Time: 2023-11-04 08:57:51
+Object: person, Time: 2023-11-04 08:57:51
+Object: No object detected, Time: 2023-11-04 08:57:52
+Object: No object detected, Time: 2023-11-04 08:57:52
+Object: No object detected, Time: 2023-11-04 08:57:52
+Object: No object detected, Time: 2023-11-04 08:57:53
+Object: No object detected, Time: 2023-11-04 08:57:53
+Object: No object detected, Time: 2023-11-04 08:57:53
+Object: No object detected, Time: 2023-11-04 08:57:53
+Object: No object detected, Time: 2023-11-04 08:57:54
+Object: No object detected, Time: 2023-11-04 08:57:54
+Object: No object detected, Time: 2023-11-04 08:57:54
+Object: No object detected, Time: 2023-11-04 08:57:54
+Object: No object detected, Time: 2023-11-04 08:57:55
+Object: No object detected, Time: 2023-11-04 10:47:15
+Object: person, Time: 2023-11-04 10:47:15
+Object: person, Time: 2023-11-04 10:47:15
+Object: person, Time: 2023-11-04 10:47:16
+Object: person, Time: 2023-11-04 10:47:16
+Object: person, Time: 2023-11-04 10:47:16
+Object: person, Time: 2023-11-04 10:47:16
+Object: person, Time: 2023-11-04 10:47:17
+Object: person, Time: 2023-11-04 10:47:17
+Object: person, Time: 2023-11-04 10:47:17
+Object: person, Time: 2023-11-04 10:47:17
+Object: person, Time: 2023-11-04 10:47:18
+Object: person, Time: 2023-11-04 10:47:18
+Object: person, Time: 2023-11-04 10:47:18
+Object: person, Time: 2023-11-04 10:47:19
+Object: person, Time: 2023-11-04 10:47:19
+Object: person, Time: 2023-11-04 10:47:19
+Object: person, Time: 2023-11-04 10:47:20
+Object: person, Time: 2023-11-04 10:47:20
+Object: person, Time: 2023-11-04 10:47:20
+Object: person, Time: 2023-11-04 10:47:20
+Object: person, Time: 2023-11-04 10:47:21
+Object: person, Time: 2023-11-04 10:47:21
+Object: person, Time: 2023-11-04 10:47:21
+Object: person, Time: 2023-11-04 10:47:22
+Object: person, Time: 2023-11-04 10:47:22
+Object: person, Time: 2023-11-04 10:47:22
+Object: No object detected, Time: 2023-11-04 10:47:22
+Object: person, Time: 2023-11-04 10:47:23
+Object: person, Time: 2023-11-04 10:47:23
+Object: person, Time: 2023-11-04 10:47:23
+Object: person, Time: 2023-11-04 10:47:24
+Object: person, Time: 2023-11-04 10:47:24
+Object: person, Time: 2023-11-04 10:47:24
+Object: person, Time: 2023-11-04 10:47:24
+Object: person, Time: 2023-11-04 10:47:25
+Object: No object detected, Time: 2023-11-04 10:47:25
+Object: No object detected, Time: 2023-11-04 10:47:25
+Object: No object detected, Time: 2023-11-04 10:47:26
+Object: person, Time: 2023-11-04 10:47:26
+Object: No object detected, Time: 2023-11-04 10:47:26
+Object: No object detected, Time: 2023-11-04 10:47:26
+Object: No object detected, Time: 2023-11-04 10:47:27
+Object: No object detected, Time: 2023-11-04 10:47:27
+Object: No object detected, Time: 2023-11-04 10:47:27
+Object: No object detected, Time: 2023-11-04 10:47:28
+Object: No object detected, Time: 2023-11-04 10:47:28
+Object: No object detected, Time: 2023-11-04 10:47:28
+Object: No object detected, Time: 2023-11-04 10:47:28
+Object: No object detected, Time: 2023-11-04 10:47:29
+Object: No object detected, Time: 2023-11-04 10:47:29
+Object: No object detected, Time: 2023-11-04 10:47:29
+Object: No object detected, Time: 2023-11-04 10:47:30
+Object: No object detected, Time: 2023-11-04 10:47:30
+Object: person, Time: 2023-11-04 10:47:30
+Object: No object detected, Time: 2023-11-04 10:47:30
+Object: person, Time: 2023-11-04 10:47:31
+Object: person, Time: 2023-11-04 10:47:31
+Object: person, Time: 2023-11-04 10:47:31
+Object: No object detected, Time: 2023-11-04 10:47:32
+Object: No object detected, Time: 2023-11-04 10:47:32
+Object: person, Time: 2023-11-04 10:47:32
+Object: person, Time: 2023-11-04 10:47:33
+Object: person, Time: 2023-11-04 10:47:33
+Object: person, Time: 2023-11-04 10:47:33
+Object: person, Time: 2023-11-04 10:47:33
+Object: person, Time: 2023-11-04 10:47:34
+Object: person, Time: 2023-11-04 10:47:34
+Object: person, Time: 2023-11-04 10:47:34
+Object: person, Time: 2023-11-04 10:47:35
+Object: person, Time: 2023-11-04 10:47:35
+Object: person, Time: 2023-11-04 10:47:35
+Object: No object detected, Time: 2023-11-04 10:47:35
+Object: person, Time: 2023-11-04 10:47:36
+Object: person, Time: 2023-11-04 10:47:36
+Object: person, Time: 2023-11-04 10:47:36
+Object: person, Time: 2023-11-04 10:47:37
+Object: No object detected, Time: 2023-11-04 10:47:37
+Object: No object detected, Time: 2023-11-04 10:47:37
+Object: No object detected, Time: 2023-11-04 10:47:38
+Object: No object detected, Time: 2023-11-04 10:47:38
+Object: No object detected, Time: 2023-11-04 10:47:38
+Object: No object detected, Time: 2023-11-04 10:47:38
+Object: No object detected, Time: 2023-11-04 10:47:39
+Object: No object detected, Time: 2023-11-04 10:47:39
+Object: No object detected, Time: 2023-11-04 10:47:39
+Object: person, Time: 2023-11-04 10:47:39
+Object: No object detected, Time: 2023-11-04 10:47:40
+Object: No object detected, Time: 2023-11-04 10:47:40
+Object: No object detected, Time: 2023-11-04 10:47:40
+Object: No object detected, Time: 2023-11-04 10:47:41
+Object: No object detected, Time: 2023-11-04 10:47:41
+Object: No object detected, Time: 2023-11-04 10:47:41
+Object: No object detected, Time: 2023-11-04 10:47:41
+Object: No object detected, Time: 2023-11-04 10:47:42
+Object: No object detected, Time: 2023-11-04 10:47:42
+Object: No object detected, Time: 2023-11-04 10:47:42
+Object: No object detected, Time: 2023-11-04 10:47:43
+Object: No object detected, Time: 2023-11-04 10:47:43
+Object: No object detected, Time: 2023-11-04 10:47:43
+Object: No object detected, Time: 2023-11-04 10:47:44
+Object: No object detected, Time: 2023-11-04 10:47:44
+Object: No object detected, Time: 2023-11-04 10:47:44
+Object: No object detected, Time: 2023-11-04 10:47:44
+Object: No object detected, Time: 2023-11-04 10:47:45
+Object: No object detected, Time: 2023-11-04 10:47:45
+Object: No object detected, Time: 2023-11-04 10:47:45
+Object: No object detected, Time: 2023-11-04 10:47:46
+Object: No object detected, Time: 2023-11-04 10:47:46
+Object: No object detected, Time: 2023-11-04 10:47:46
+Object: person, Time: 2023-11-04 10:47:46
+Object: person, Time: 2023-11-04 10:47:47
+Object: person, Time: 2023-11-04 10:47:47
+Object: person, Time: 2023-11-04 10:47:47
+Object: person, Time: 2023-11-04 10:47:48
+Object: person, Time: 2023-11-04 10:47:48
+Object: person, Time: 2023-11-04 10:47:48
+Object: bottle, Time: 2023-11-04 10:47:49
+Object: bottle, Time: 2023-11-04 10:47:49
+Object: bottle, Time: 2023-11-04 10:47:49
+Object: No object detected, Time: 2023-11-04 10:47:49
+Object: person, Time: 2023-11-04 10:47:50
+Object: person, Time: 2023-11-04 10:47:50
+Object: person, Time: 2023-11-04 10:47:50
+Object: bottle, Time: 2023-11-04 10:47:51
+Object: No object detected, Time: 2023-11-04 10:47:51
+Object: No object detected, Time: 2023-11-04 10:47:51
+Object: No object detected, Time: 2023-11-04 10:47:52
+Object: No object detected, Time: 2023-11-04 10:47:52
+Object: No object detected, Time: 2023-11-04 10:47:52
+Object: No object detected, Time: 2023-11-04 10:47:52
+Object: person, Time: 2023-11-04 10:47:53
+Object: No object detected, Time: 2023-11-04 10:47:53
+Object: No object detected, Time: 2023-11-04 10:47:53
+Object: No object detected, Time: 2023-11-04 10:47:54
+Object: No object detected, Time: 2023-11-04 10:47:54
+Object: No object detected, Time: 2023-11-04 10:47:54
+Object: No object detected, Time: 2023-11-04 10:47:54
+Object: No object detected, Time: 2023-11-04 10:47:55
+Object: No object detected, Time: 2023-11-04 10:47:55
+Object: No object detected, Time: 2023-11-04 10:47:55
+Object: No object detected, Time: 2023-11-04 10:47:56
+Object: No object detected, Time: 2023-11-04 10:47:56
+Object: No object detected, Time: 2023-11-04 10:47:56
+Object: No object detected, Time: 2023-11-04 10:47:56
+Object: No object detected, Time: 2023-11-04 10:47:57
+Object: No object detected, Time: 2023-11-04 10:47:57
+Object: No object detected, Time: 2023-11-04 10:47:57
+Object: No object detected, Time: 2023-11-04 10:47:58
+Object: No object detected, Time: 2023-11-04 10:47:58
+Object: No object detected, Time: 2023-11-04 10:47:58
+Object: No object detected, Time: 2023-11-04 10:47:58
+Object: No object detected, Time: 2023-11-04 10:47:59
+Object: No object detected, Time: 2023-11-04 10:47:59
+Object: No object detected, Time: 2023-11-04 10:47:59
+Object: No object detected, Time: 2023-11-04 10:48:00
+Object: No object detected, Time: 2023-11-04 10:48:00
+Object: No object detected, Time: 2023-11-04 10:48:00
+Object: No object detected, Time: 2023-11-04 10:48:01
+Object: No object detected, Time: 2023-11-04 10:48:01
+Object: No object detected, Time: 2023-11-04 10:48:01
+Object: No object detected, Time: 2023-11-04 10:48:01
+Object: No object detected, Time: 2023-11-04 10:48:02
+Object: No object detected, Time: 2023-11-04 10:48:02
+Object: No object detected, Time: 2023-11-04 10:48:02
+Object: No object detected, Time: 2023-11-04 10:48:03
+Object: No object detected, Time: 2023-11-04 10:48:03
+Object: No object detected, Time: 2023-11-04 10:48:03
+Object: No object detected, Time: 2023-11-04 10:48:03
+Object: No object detected, Time: 2023-11-04 10:48:04
+Object: No object detected, Time: 2023-11-04 10:48:04
+Object: No object detected, Time: 2023-11-04 10:48:04
+Object: No object detected, Time: 2023-11-04 10:48:05
+Object: No object detected, Time: 2023-11-04 10:48:05
+Object: No object detected, Time: 2023-11-04 10:48:05
+Object: No object detected, Time: 2023-11-04 10:48:05
+Object: No object detected, Time: 2023-11-04 10:48:06
+Object: No object detected, Time: 2023-11-04 10:48:06
+Object: No object detected, Time: 2023-11-04 10:48:06
+Object: No object detected, Time: 2023-11-04 10:48:07
+Object: No object detected, Time: 2023-11-04 10:48:07
+Object: No object detected, Time: 2023-11-04 10:48:07
+Object: No object detected, Time: 2023-11-04 10:48:07
+Object: No object detected, Time: 2023-11-04 10:48:08
+Object: No object detected, Time: 2023-11-04 10:48:08
+Object: No object detected, Time: 2023-11-04 10:48:08
+Object: No object detected, Time: 2023-11-04 10:48:09
+Object: No object detected, Time: 2023-11-04 10:48:09
+Object: No object detected, Time: 2023-11-04 10:48:09
+Object: No object detected, Time: 2023-11-04 10:48:09
+Object: No object detected, Time: 2023-11-04 10:48:10
+Object: No object detected, Time: 2023-11-04 10:48:10
+Object: No object detected, Time: 2023-11-04 10:48:10
+Object: No object detected, Time: 2023-11-04 10:48:11
+Object: No object detected, Time: 2023-11-04 10:48:11
+Object: person, Time: 2023-11-04 10:48:11
+Object: person, Time: 2023-11-04 10:48:11
+Object: person, Time: 2023-11-04 10:48:12
+Object: person, Time: 2023-11-04 10:48:12
+Object: person, Time: 2023-11-04 10:48:12
+Object: person, Time: 2023-11-04 10:48:12
+Object: person, Time: 2023-11-04 10:48:13
+Object: person, Time: 2023-11-04 10:48:13
+Object: person, Time: 2023-11-04 10:48:13
+Object: person, Time: 2023-11-04 10:48:14
+Object: No object detected, Time: 2023-11-04 10:48:14
+Object: person, Time: 2023-11-04 10:48:14
+Object: person, Time: 2023-11-04 10:48:14
+Object: person, Time: 2023-11-04 10:48:15
+Object: person, Time: 2023-11-04 10:48:15
+Object: person, Time: 2023-11-04 10:48:15
+Object: person, Time: 2023-11-04 10:48:16
+Object: person, Time: 2023-11-04 10:48:16
+Object: person, Time: 2023-11-04 10:48:16
+Object: person, Time: 2023-11-04 10:48:16
+Object: person, Time: 2023-11-04 10:48:17
+Object: person, Time: 2023-11-04 10:48:17
+Object: person, Time: 2023-11-04 10:48:17
+Object: person, Time: 2023-11-04 10:48:18
+Object: person, Time: 2023-11-04 10:48:18
+Object: person, Time: 2023-11-04 10:48:18
+Object: person, Time: 2023-11-04 10:48:18
+Object: person, Time: 2023-11-04 10:48:19
+Object: person, Time: 2023-11-04 10:48:19
+Object: person, Time: 2023-11-04 10:48:19
+Object: person, Time: 2023-11-04 10:48:19
+Object: person, Time: 2023-11-04 10:48:20
+Object: person, Time: 2023-11-04 10:48:20
+Object: person, Time: 2023-11-04 10:48:20
+Object: person, Time: 2023-11-04 10:48:20
+Object: person, Time: 2023-11-04 10:48:21
+Object: person, Time: 2023-11-04 10:48:21
+Object: person, Time: 2023-11-04 10:48:21
+Object: person, Time: 2023-11-04 10:48:22
+Object: person, Time: 2023-11-04 10:48:22
+Object: person, Time: 2023-11-04 10:48:22
+Object: person, Time: 2023-11-04 10:48:22
+Object: No object detected, Time: 2023-11-04 10:48:23
+Object: No object detected, Time: 2023-11-04 10:48:23
+Object: No object detected, Time: 2023-11-04 10:48:23
+Object: No object detected, Time: 2023-11-04 10:48:23
+Object: No object detected, Time: 2023-11-04 10:48:24
+Object: No object detected, Time: 2023-11-04 10:48:24
+Object: No object detected, Time: 2023-11-04 10:48:24
+Object: No object detected, Time: 2023-11-04 10:48:25
+Object: No object detected, Time: 2023-11-04 10:48:25
+Object: No object detected, Time: 2023-11-04 10:48:25
+Object: No object detected, Time: 2023-11-04 10:48:25
+Object: No object detected, Time: 2023-11-04 10:48:26
+Object: No object detected, Time: 2023-11-04 10:48:26
+Object: No object detected, Time: 2023-11-04 10:48:26
+Object: No object detected, Time: 2023-11-04 10:48:27
+Object: No object detected, Time: 2023-11-04 10:48:27
+Object: person, Time: 2023-11-04 10:48:27
+Object: No object detected, Time: 2023-11-04 10:48:27
+Object: No object detected, Time: 2023-11-04 10:48:28
+Object: person, Time: 2023-11-04 10:48:28
+Object: No object detected, Time: 2023-11-04 10:48:28
+Object: person, Time: 2023-11-04 10:48:28
+Object: person, Time: 2023-11-04 10:48:29
+Object: No object detected, Time: 2023-11-04 10:48:29
+Object: No object detected, Time: 2023-11-04 10:48:29
+Object: No object detected, Time: 2023-11-04 10:48:30
+Object: No object detected, Time: 2023-11-04 10:48:30
+Object: person, Time: 2023-11-04 10:48:30
+Object: person, Time: 2023-11-04 10:48:30
+Object: No object detected, Time: 2023-11-04 10:48:31
+Object: person, Time: 2023-11-04 10:48:31
+Object: No object detected, Time: 2023-11-04 10:48:31
+Object: person, Time: 2023-11-04 10:48:32
+Object: person, Time: 2023-11-04 10:48:32
+Object: person, Time: 2023-11-04 10:48:32
+Object: person, Time: 2023-11-04 10:48:32
+Object: person, Time: 2023-11-04 10:48:33
+Object: No object detected, Time: 2023-11-04 10:48:33
+Object: No object detected, Time: 2023-11-04 10:48:33
+Object: person, Time: 2023-11-04 10:48:34
+Object: person, Time: 2023-11-04 10:48:34
+Object: person, Time: 2023-11-04 10:48:34
+Object: person, Time: 2023-11-04 10:48:34
+Object: person, Time: 2023-11-04 10:48:35
+Object: person, Time: 2023-11-04 10:48:35
+Object: No object detected, Time: 2023-11-04 10:48:35
+Object: No object detected, Time: 2023-11-04 10:48:35
+Object: No object detected, Time: 2023-11-04 10:48:36
+Object: No object detected, Time: 2023-11-04 10:48:36
+Object: person, Time: 2023-11-04 10:48:36
+Object: No object detected, Time: 2023-11-04 10:48:36
+Object: No object detected, Time: 2023-11-04 10:48:37
+Object: No object detected, Time: 2023-11-04 10:48:37
+Object: person, Time: 2023-11-04 10:48:37
+Object: person, Time: 2023-11-04 10:48:38
+Object: person, Time: 2023-11-04 10:48:38
+Object: person, Time: 2023-11-04 10:48:38
+Object: person, Time: 2023-11-04 10:48:38
+Object: person, Time: 2023-11-04 10:48:39
+Object: person, Time: 2023-11-04 10:48:39
+Object: person, Time: 2023-11-04 10:48:39
+Object: person, Time: 2023-11-04 10:48:39
+Object: No object detected, Time: 2023-11-04 10:48:40
+Object: person, Time: 2023-11-04 10:48:40
+Object: person, Time: 2023-11-04 10:48:40
+Object: person, Time: 2023-11-04 10:48:41
+Object: person, Time: 2023-11-04 10:48:41
+Object: No object detected, Time: 2023-11-04 10:48:41
+Object: No object detected, Time: 2023-11-04 10:48:41
+Object: No object detected, Time: 2023-11-04 10:48:42
+Object: No object detected, Time: 2023-11-04 10:48:42
+Object: person, Time: 2023-11-04 10:48:42
+Object: No object detected, Time: 2023-11-04 10:48:42
+Object: No object detected, Time: 2023-11-04 10:48:43
+Object: No object detected, Time: 2023-11-04 10:48:43
+Object: person, Time: 2023-11-04 10:48:43
+Object: person, Time: 2023-11-04 10:48:44
+Object: person, Time: 2023-11-04 10:48:44
+Object: person, Time: 2023-11-04 10:48:44
+Object: person, Time: 2023-11-04 10:48:44
+Object: person, Time: 2023-11-04 10:48:45
+Object: person, Time: 2023-11-04 10:48:45
+Object: person, Time: 2023-11-04 10:48:45
+Object: person, Time: 2023-11-04 10:48:45
+Object: person, Time: 2023-11-04 10:48:46
+Object: person, Time: 2023-11-04 10:48:46
+Object: person, Time: 2023-11-04 10:48:46
+Object: person, Time: 2023-11-04 10:48:47
+Object: person, Time: 2023-11-04 10:48:47
+Object: person, Time: 2023-11-04 10:48:47
+Object: person, Time: 2023-11-04 10:48:47
+Object: person, Time: 2023-11-04 10:48:48
+Object: person, Time: 2023-11-04 10:48:48
+Object: person, Time: 2023-11-04 10:48:48
+Object: person, Time: 2023-11-04 10:48:49
+Object: person, Time: 2023-11-04 10:48:49
+Object: person, Time: 2023-11-04 10:48:49
+Object: person, Time: 2023-11-04 10:48:49
+Object: No object detected, Time: 2023-11-04 10:48:50
+Object: No object detected, Time: 2023-11-04 10:48:50
+Object: No object detected, Time: 2023-11-04 10:48:50
+Object: person, Time: 2023-11-04 10:48:51
+Object: person, Time: 2023-11-04 10:48:51
+Object: person, Time: 2023-11-04 10:48:51
+Object: person, Time: 2023-11-04 10:48:51
+Object: person, Time: 2023-11-04 10:48:52
+Object: person, Time: 2023-11-04 10:48:52
+Object: person, Time: 2023-11-04 10:48:52
+Object: person, Time: 2023-11-04 10:48:52
+Object: person, Time: 2023-11-04 10:48:53
+Object: person, Time: 2023-11-04 10:48:53
+Object: No object detected, Time: 2023-11-04 10:48:53
+Object: No object detected, Time: 2023-11-04 10:48:54
+Object: person, Time: 2023-11-04 10:48:54
+Object: person, Time: 2023-11-04 10:48:54
+Object: No object detected, Time: 2023-11-04 10:48:54
+Object: No object detected, Time: 2023-11-04 10:48:55
+Object: No object detected, Time: 2023-11-04 10:48:55
+Object: No object detected, Time: 2023-11-04 10:48:55
+Object: No object detected, Time: 2023-11-04 10:48:55
+Object: No object detected, Time: 2023-11-04 10:48:56
+Object: person, Time: 2023-11-04 10:48:56
+Object: No object detected, Time: 2023-11-04 10:48:56
+Object: No object detected, Time: 2023-11-04 10:48:57
+Object: person, Time: 2023-11-04 10:48:57
+Object: No object detected, Time: 2023-11-04 10:48:57
+Object: No object detected, Time: 2023-11-04 10:48:57
+Object: person, Time: 2023-11-04 10:48:58
+Object: person, Time: 2023-11-04 10:48:58
+Object: No object detected, Time: 2023-11-04 10:48:58
+Object: No object detected, Time: 2023-11-04 10:48:59
+Object: No object detected, Time: 2023-11-04 10:48:59
+Object: No object detected, Time: 2023-11-04 10:48:59
+Object: No object detected, Time: 2023-11-04 10:48:59
+Object: person, Time: 2023-11-04 10:49:00
+Object: No object detected, Time: 2023-11-04 10:49:00
+Object: person, Time: 2023-11-04 10:49:00
+Object: person, Time: 2023-11-04 10:49:00
+Object: No object detected, Time: 2023-11-04 10:49:01
+Object: No object detected, Time: 2023-11-04 10:49:01
+Object: person, Time: 2023-11-04 10:49:01
+Object: No object detected, Time: 2023-11-04 10:49:02
+Object: No object detected, Time: 2023-11-04 10:49:02
+Object: person, Time: 2023-11-04 10:49:02
+Object: No object detected, Time: 2023-11-04 10:49:03
+Object: person, Time: 2023-11-04 10:49:03
+Object: person, Time: 2023-11-04 10:49:03
+Object: person, Time: 2023-11-04 10:49:03
+Object: person, Time: 2023-11-04 10:49:04
+Object: person, Time: 2023-11-04 10:49:04
+Object: person, Time: 2023-11-04 10:49:04
+Object: person, Time: 2023-11-04 10:49:05
+Object: person, Time: 2023-11-04 10:49:05
+Object: person, Time: 2023-11-04 10:49:05
+Object: person, Time: 2023-11-04 10:49:05
+Object: cow, Time: 2023-11-04 10:49:06
+Object: cow, Time: 2023-11-04 10:49:06
+Object: person, Time: 2023-11-04 10:49:06
+Object: person, Time: 2023-11-04 10:49:06
+Object: person, Time: 2023-11-04 10:49:07
+Object: cow, Time: 2023-11-04 10:49:07
+Object: cow, Time: 2023-11-04 10:49:07
+Object: cow, Time: 2023-11-04 10:49:07
+Object: cow, Time: 2023-11-04 10:49:08
+Object: dog, Time: 2023-11-04 10:49:08
+Object: cow, Time: 2023-11-04 10:49:09
+Object: cow, Time: 2023-11-04 10:49:09
+Object: person, Time: 2023-11-04 10:49:09
+Object: No object detected, Time: 2023-11-04 10:49:09
+Object: cow, Time: 2023-11-04 10:49:10
+Object: person, Time: 2023-11-04 10:49:10
+Object: person, Time: 2023-11-04 10:49:10
+Object: person, Time: 2023-11-04 10:49:11
+Object: person, Time: 2023-11-04 10:49:11
+Object: person, Time: 2023-11-04 10:49:11
+Object: person, Time: 2023-11-04 10:49:11
+Object: person, Time: 2023-11-04 10:49:12
+Object: person, Time: 2023-11-04 10:49:12
+Object: person, Time: 2023-11-04 10:49:12
+Object: person, Time: 2023-11-04 10:49:12
+Object: person, Time: 2023-11-04 10:49:13
+Object: person, Time: 2023-11-04 10:49:13
+Object: person, Time: 2023-11-04 10:49:13
+Object: person, Time: 2023-11-04 10:49:13
+Object: person, Time: 2023-11-04 10:49:14
+Object: person, Time: 2023-11-04 10:49:14
+Object: person, Time: 2023-11-04 10:49:14
+Object: person, Time: 2023-11-04 10:49:15
+Object: person, Time: 2023-11-04 10:49:15
+Object: person, Time: 2023-11-04 10:49:15
+Object: person, Time: 2023-11-04 10:49:15
+Object: person, Time: 2023-11-04 10:49:16
+Object: person, Time: 2023-11-04 10:49:16
+Object: person, Time: 2023-11-04 10:49:16
+Object: person, Time: 2023-11-04 10:49:17
+Object: person, Time: 2023-11-04 10:49:17
+Object: person, Time: 2023-11-04 10:49:17
+Object: person, Time: 2023-11-04 10:49:17
+Object: person, Time: 2023-11-04 10:49:18
+Object: person, Time: 2023-11-04 10:49:18
+Object: person, Time: 2023-11-04 10:49:18
+Object: person, Time: 2023-11-04 10:49:19
+Object: person, Time: 2023-11-04 10:49:19
+Object: person, Time: 2023-11-04 10:49:19
+Object: person, Time: 2023-11-04 10:49:19
+Object: person, Time: 2023-11-04 10:49:20
+Object: person, Time: 2023-11-04 10:49:20
+Object: person, Time: 2023-11-04 10:49:20
+Object: person, Time: 2023-11-04 10:49:20
+Object: person, Time: 2023-11-04 10:49:21
+Object: person, Time: 2023-11-04 10:49:21
+Object: person, Time: 2023-11-04 10:49:21
+Object: person, Time: 2023-11-04 10:49:22
+Object: person, Time: 2023-11-04 10:49:22
+Object: person, Time: 2023-11-04 10:49:22
+Object: person, Time: 2023-11-04 10:49:22
+Object: person, Time: 2023-11-04 10:49:23
+Object: person, Time: 2023-11-04 10:49:23
+Object: person, Time: 2023-11-04 10:49:23
+Object: person, Time: 2023-11-04 10:49:24
+Object: person, Time: 2023-11-04 10:49:24
+Object: person, Time: 2023-11-04 10:49:24
+Object: person, Time: 2023-11-04 10:49:24
+Object: person, Time: 2023-11-04 10:49:25
+Object: person, Time: 2023-11-04 10:49:25
+Object: person, Time: 2023-11-04 10:49:25
+Object: cow, Time: 2023-11-04 10:49:25
+Object: person, Time: 2023-11-04 10:49:26
+Object: person, Time: 2023-11-04 10:49:26
+Object: cow, Time: 2023-11-04 10:49:26
+Object: person, Time: 2023-11-04 10:49:26
+Object: person, Time: 2023-11-04 10:49:27
+Object: person, Time: 2023-11-04 10:49:27
+Object: person, Time: 2023-11-04 10:49:27
+Object: cow, Time: 2023-11-04 10:49:28
+Object: person, Time: 2023-11-04 10:49:28
+Object: person, Time: 2023-11-04 10:49:28
+Object: person, Time: 2023-11-04 10:49:28
+Object: person, Time: 2023-11-04 10:49:29
+Object: person, Time: 2023-11-04 10:49:29
+Object: person, Time: 2023-11-04 10:49:29
+Object: person, Time: 2023-11-04 10:49:30
+Object: person, Time: 2023-11-04 10:49:30
+Object: person, Time: 2023-11-04 10:49:30
+Object: person, Time: 2023-11-04 10:49:31
+Object: person, Time: 2023-11-04 10:49:31
+Object: person, Time: 2023-11-04 10:49:31
+Object: person, Time: 2023-11-04 10:49:31
+Object: person, Time: 2023-11-04 10:49:32
+Object: person, Time: 2023-11-04 10:49:32
+Object: person, Time: 2023-11-04 10:49:32
+Object: person, Time: 2023-11-04 10:49:33
+Object: person, Time: 2023-11-04 10:49:33
+Object: No object detected, Time: 2023-11-04 10:49:33
+Object: No object detected, Time: 2023-11-04 10:49:33
+Object: person, Time: 2023-11-04 10:49:34
+Object: No object detected, Time: 2023-11-04 10:49:34
+Object: No object detected, Time: 2023-11-04 10:49:34
+Object: No object detected, Time: 2023-11-04 10:49:35
+Object: No object detected, Time: 2023-11-04 10:49:35
+Object: No object detected, Time: 2023-11-04 10:49:35
+Object: No object detected, Time: 2023-11-04 10:49:35
+Object: person, Time: 2023-11-04 10:50:27
+Object: person, Time: 2023-11-04 10:50:27
+Object: No object detected, Time: 2023-11-04 10:50:28
+Object: person, Time: 2023-11-04 10:50:28
+Object: person, Time: 2023-11-04 10:50:28
+Object: person, Time: 2023-11-04 10:50:29
+Object: person, Time: 2023-11-04 10:50:29
+Object: No object detected, Time: 2023-11-04 10:50:29
+Object: No object detected, Time: 2023-11-04 10:50:29
+Object: No object detected, Time: 2023-11-04 10:50:30
+Object: No object detected, Time: 2023-11-04 10:50:30
+Object: No object detected, Time: 2023-11-04 10:50:30
+Object: No object detected, Time: 2023-11-04 10:50:31
+Object: No object detected, Time: 2023-11-04 10:50:31
+Object: No object detected, Time: 2023-11-04 10:50:31
+Object: No object detected, Time: 2023-11-04 10:50:31
+Object: person, Time: 2023-11-04 10:50:32
+Object: person, Time: 2023-11-04 10:50:32
+Object: No object detected, Time: 2023-11-04 10:50:32
+Object: No object detected, Time: 2023-11-04 10:50:33
+Object: person, Time: 2023-11-04 10:50:33
+Object: person, Time: 2023-11-04 10:50:33
+Object: person, Time: 2023-11-04 10:50:33
+Object: person, Time: 2023-11-04 10:50:34
+Object: person, Time: 2023-11-04 10:50:34
+Object: person, Time: 2023-11-04 10:50:34
+Object: person, Time: 2023-11-04 10:50:35
+Object: person, Time: 2023-11-04 10:50:35
+Object: person, Time: 2023-11-04 10:50:35
+Object: person, Time: 2023-11-04 10:50:36
+Object: person, Time: 2023-11-04 10:50:36
+Object: person, Time: 2023-11-04 10:50:36
+Object: person, Time: 2023-11-04 10:50:36
+Object: person, Time: 2023-11-04 10:51:16
+Object: person, Time: 2023-11-04 10:51:17
+Object: person, Time: 2023-11-04 10:51:17
+Object: person, Time: 2023-11-04 10:51:17
+Object: person, Time: 2023-11-04 10:51:18
+Object: person, Time: 2023-11-04 10:51:18
+Object: person, Time: 2023-11-04 10:51:18
+Object: person, Time: 2023-11-04 10:51:18
+Object: person, Time: 2023-11-04 10:51:19
+Object: person, Time: 2023-11-04 10:51:19
+Object: person, Time: 2023-11-04 10:51:19
+Object: person, Time: 2023-11-04 10:51:19
+Object: person, Time: 2023-11-04 10:51:20
+Object: person, Time: 2023-11-04 10:51:20
+Object: person, Time: 2023-11-04 10:51:20
+Object: person, Time: 2023-11-04 10:51:21
+Object: person, Time: 2023-11-04 10:51:21
+Object: person, Time: 2023-11-04 10:51:21
+Object: person, Time: 2023-11-04 10:51:21
+Object: person, Time: 2023-11-04 10:51:22
+Object: person, Time: 2023-11-04 10:51:22
+Object: person, Time: 2023-11-04 10:51:22
+Object: person, Time: 2023-11-04 10:51:23
+Object: person, Time: 2023-11-04 10:51:23
+Object: person, Time: 2023-11-04 10:51:23
+Object: person, Time: 2023-11-04 10:51:23
+Object: person, Time: 2023-11-04 10:51:24
+Object: person, Time: 2023-11-04 10:51:24
+Object: person, Time: 2023-11-04 10:51:24
+Object: person, Time: 2023-11-04 10:51:25
+Object: person, Time: 2023-11-04 10:51:25
+Object: person, Time: 2023-11-04 10:51:25
+Object: person, Time: 2023-11-04 10:51:25
+Object: person, Time: 2023-11-04 10:51:26
+Object: person, Time: 2023-11-04 10:51:26
+Object: person, Time: 2023-11-04 10:51:26
+Object: person, Time: 2023-11-04 10:51:27
+Object: person, Time: 2023-11-04 10:51:27
+Object: person, Time: 2023-11-04 10:51:27
+Object: person, Time: 2023-11-04 10:51:27
+Object: dog, Time: 2023-11-04 10:51:28
+Object: person, Time: 2023-11-04 10:51:28
+Object: person, Time: 2023-11-04 10:51:28
+Object: No object detected, Time: 2023-11-04 10:51:29
+Object: No object detected, Time: 2023-11-04 10:51:29
+Object: person, Time: 2023-11-04 10:51:29
+Object: person, Time: 2023-11-04 10:51:29
+Object: person, Time: 2023-11-04 10:51:30
+Object: person, Time: 2023-11-04 10:51:30
+Object: cow, Time: 2023-11-04 10:51:30
+Object: person, Time: 2023-11-04 10:51:31
+Object: person, Time: 2023-11-04 10:51:31
+Object: person, Time: 2023-11-04 10:51:31
+Object: person, Time: 2023-11-04 10:51:31
+Object: person, Time: 2023-11-04 10:51:32
+Object: person, Time: 2023-11-04 10:51:32
+Object: person, Time: 2023-11-04 10:51:32
+Object: person, Time: 2023-11-04 10:51:33
+Object: person, Time: 2023-11-04 10:51:33
+Object: person, Time: 2023-11-04 10:51:33
+Object: person, Time: 2023-11-04 10:51:33
+Object: No object detected, Time: 2023-11-04 10:51:34
+Object: person, Time: 2023-11-04 10:51:34
+Object: person, Time: 2023-11-04 10:51:34
+Object: person, Time: 2023-11-04 10:51:35
+Object: person, Time: 2023-11-04 10:51:35
+Object: person, Time: 2023-11-04 10:51:35
+Object: person, Time: 2023-11-04 10:51:35
+Object: person, Time: 2023-11-04 10:51:36
+Object: person, Time: 2023-11-04 10:51:36
+Object: person, Time: 2023-11-04 10:51:36
+Object: No object detected, Time: 2023-11-04 10:51:37
+Object: person, Time: 2023-11-04 10:51:37
+Object: person, Time: 2023-11-04 10:51:37
+Object: person, Time: 2023-11-04 10:51:37
+Object: person, Time: 2023-11-04 10:51:38
+Object: No object detected, Time: 2023-11-04 10:51:38
+Object: person, Time: 2023-11-04 10:51:38
+Object: No object detected, Time: 2023-11-04 10:51:39
+Object: No object detected, Time: 2023-11-04 10:51:39
+Object: person, Time: 2023-11-04 10:51:39
+Object: person, Time: 2023-11-04 10:51:39
+Object: person, Time: 2023-11-04 10:51:40
+Object: person, Time: 2023-11-04 10:51:40
+Object: No object detected, Time: 2023-11-04 10:51:40
+Object: person, Time: 2023-11-04 10:51:41
+Object: No object detected, Time: 2023-11-04 10:51:41
+Object: No object detected, Time: 2023-11-04 10:51:41
+Object: No object detected, Time: 2023-11-04 10:51:41
+Object: person, Time: 2023-11-04 10:51:42
+Object: No object detected, Time: 2023-11-04 10:51:42
+Object: No object detected, Time: 2023-11-04 10:51:42
+Object: No object detected, Time: 2023-11-04 10:51:42
+Object: No object detected, Time: 2023-11-04 10:51:43
+Object: person, Time: 2023-11-04 10:51:43
+Object: person, Time: 2023-11-04 10:51:43
+Object: person, Time: 2023-11-04 10:51:44
+Object: person, Time: 2023-11-04 10:51:44
+Object: person, Time: 2023-11-04 10:51:44
+Object: person, Time: 2023-11-04 10:51:44
+Object: person, Time: 2023-11-04 10:51:45
+Object: person, Time: 2023-11-04 10:51:45
+Object: person, Time: 2023-11-04 10:51:45
+Object: person, Time: 2023-11-04 10:51:46
+Object: person, Time: 2023-11-04 10:51:46
+Object: person, Time: 2023-11-04 10:51:46
+Object: person, Time: 2023-11-04 10:51:46
+Object: person, Time: 2023-11-04 10:51:47
+Object: person, Time: 2023-11-04 10:51:47
+Object: person, Time: 2023-11-04 10:51:47
+Object: person, Time: 2023-11-04 10:51:48
+Object: person, Time: 2023-11-04 10:51:48
+Object: person, Time: 2023-11-04 10:51:48
+Object: person, Time: 2023-11-04 10:51:48
+Object: person, Time: 2023-11-04 10:51:49
+Object: person, Time: 2023-11-04 10:51:49
+Object: person, Time: 2023-11-04 10:51:49
+Object: person, Time: 2023-11-04 10:51:50
+Object: person, Time: 2023-11-04 10:51:50
+Object: person, Time: 2023-11-04 10:51:50
+Object: person, Time: 2023-11-04 10:51:50
+Object: person, Time: 2023-11-04 10:51:51
+Object: No object detected, Time: 2023-11-04 10:51:51
+Object: No object detected, Time: 2023-11-04 10:51:51
+Object: No object detected, Time: 2023-11-04 10:51:52
+Object: No object detected, Time: 2023-11-04 10:51:52
+Object: No object detected, Time: 2023-11-04 10:51:52
+Object: No object detected, Time: 2023-11-04 10:51:52
+Object: person, Time: 2023-11-04 10:51:53
+Object: person, Time: 2023-11-04 10:51:53
+Object: person, Time: 2023-11-04 10:51:53
+Object: person, Time: 2023-11-04 10:51:54
+Object: person, Time: 2023-11-04 10:51:54
+Object: No object detected, Time: 2023-11-04 10:51:55
+Object: No object detected, Time: 2023-11-04 10:51:55
+Object: No object detected, Time: 2023-11-04 10:51:55
+Object: person, Time: 2023-11-04 10:51:55
+Object: person, Time: 2023-11-04 10:51:56
+Object: person, Time: 2023-11-04 10:51:56
+Object: person, Time: 2023-11-04 10:51:56
+Object: person, Time: 2023-11-04 10:51:56
+Object: person, Time: 2023-11-04 10:51:57
+Object: No object detected, Time: 2023-11-04 10:51:57
+Object: No object detected, Time: 2023-11-04 10:51:57
+Object: No object detected, Time: 2023-11-04 10:51:58
+Object: No object detected, Time: 2023-11-04 10:51:58
+Object: No object detected, Time: 2023-11-04 10:51:58
+Object: person, Time: 2023-11-04 10:51:58
+Object: dog, Time: 2023-11-04 10:51:59
+Object: dog, Time: 2023-11-04 10:51:59
+Object: person, Time: 2023-11-04 10:51:59
+Object: person, Time: 2023-11-04 10:52:00
+Object: person, Time: 2023-11-04 10:52:00
+Object: person, Time: 2023-11-04 10:52:00
+Object: person, Time: 2023-11-04 10:52:00
+Object: person, Time: 2023-11-04 10:52:01
+Object: person, Time: 2023-11-04 10:52:01
+Object: person, Time: 2023-11-04 10:52:01
+Object: No object detected, Time: 2023-11-04 10:52:01
+Object: No object detected, Time: 2023-11-04 10:52:02
+Object: No object detected, Time: 2023-11-04 10:52:02
+Object: No object detected, Time: 2023-11-04 10:52:02
+Object: No object detected, Time: 2023-11-04 10:52:03
+Object: No object detected, Time: 2023-11-04 10:52:03
+Object: person, Time: 2023-11-04 10:52:03
+Object: person, Time: 2023-11-04 10:52:03
+Object: No object detected, Time: 2023-11-04 10:52:04
+Object: No object detected, Time: 2023-11-04 10:52:04
+Object: No object detected, Time: 2023-11-04 10:52:04
+Object: person, Time: 2023-11-04 10:52:05
+Object: person, Time: 2023-11-04 10:52:05
+Object: No object detected, Time: 2023-11-04 10:52:05
+Object: person, Time: 2023-11-04 10:52:05
+Object: person, Time: 2023-11-04 10:52:06
+Object: person, Time: 2023-11-04 10:52:06
+Object: person, Time: 2023-11-04 10:52:06
+Object: person, Time: 2023-11-04 10:52:07
+Object: person, Time: 2023-11-04 10:52:07
+Object: No object detected, Time: 2023-11-04 10:52:07
+Object: person, Time: 2023-11-04 10:52:07
+Object: No object detected, Time: 2023-11-04 10:52:08
+Object: person, Time: 2023-11-04 10:52:08
+Object: person, Time: 2023-11-04 10:52:08
+Object: person, Time: 2023-11-04 10:52:08
+Object: No object detected, Time: 2023-11-04 10:52:09
+Object: person, Time: 2023-11-04 10:52:09
+Object: person, Time: 2023-11-04 10:52:09
+Object: person, Time: 2023-11-04 10:52:10
+Object: person, Time: 2023-11-04 10:52:10
+Object: person, Time: 2023-11-04 10:52:10
+Object: person, Time: 2023-11-04 10:52:10
+Object: person, Time: 2023-11-04 10:52:11
+Object: person, Time: 2023-11-04 10:52:11
+Object: person, Time: 2023-11-04 10:52:11
+Object: person, Time: 2023-11-04 10:52:12
+Object: person, Time: 2023-11-04 10:52:12
+Object: person, Time: 2023-11-04 10:52:12
+Object: person, Time: 2023-11-04 10:52:12
+Object: person, Time: 2023-11-04 10:52:13
+Object: person, Time: 2023-11-04 10:52:13
+Object: person, Time: 2023-11-04 10:52:13
+Object: person, Time: 2023-11-04 10:52:14
+Object: person, Time: 2023-11-04 10:52:14
+Object: person, Time: 2023-11-04 10:52:14
+Object: person, Time: 2023-11-04 10:52:14
+Object: person, Time: 2023-11-04 10:52:15
+Object: person, Time: 2023-11-04 10:52:15
+Object: person, Time: 2023-11-04 10:52:15
+Object: person, Time: 2023-11-04 10:52:16
+Object: person, Time: 2023-11-04 10:52:16
+Object: person, Time: 2023-11-04 10:52:16
+Object: person, Time: 2023-11-04 10:52:16
+Object: person, Time: 2023-11-04 10:52:17
+Object: person, Time: 2023-11-04 10:52:17
+Object: person, Time: 2023-11-04 10:52:17
+Object: person, Time: 2023-11-04 10:52:18
+Object: person, Time: 2023-11-04 10:52:18
+Object: person, Time: 2023-11-04 10:52:19
+Object: person, Time: 2023-11-04 10:52:19
+Object: person, Time: 2023-11-04 10:52:19
+Object: person, Time: 2023-11-04 10:52:20
+Object: person, Time: 2023-11-04 10:52:20
+Object: person, Time: 2023-11-04 10:52:20
+Object: person, Time: 2023-11-04 10:52:20
+Object: person, Time: 2023-11-04 10:52:21
+Object: person, Time: 2023-11-04 10:52:21
+Object: person, Time: 2023-11-04 10:52:21
+Object: person, Time: 2023-11-04 10:52:22
+Object: person, Time: 2023-11-04 10:52:22
+Object: person, Time: 2023-11-04 10:52:22
+Object: person, Time: 2023-11-04 10:52:22
+Object: person, Time: 2023-11-04 10:52:23
+Object: person, Time: 2023-11-04 10:52:23
+Object: person, Time: 2023-11-04 10:52:23
+Object: person, Time: 2023-11-04 10:52:24
+Object: person, Time: 2023-11-04 10:52:24
+Object: person, Time: 2023-11-04 10:52:24
+Object: person, Time: 2023-11-04 10:52:25
+Object: person, Time: 2023-11-04 10:52:25
+Object: person, Time: 2023-11-04 10:52:25
+Object: person, Time: 2023-11-04 10:52:25
+Object: person, Time: 2023-11-04 10:52:26
+Object: person, Time: 2023-11-04 10:52:26
+Object: person, Time: 2023-11-04 10:52:28
+Object: person, Time: 2023-11-04 10:52:28
+Object: person, Time: 2023-11-04 10:52:29
+Object: person, Time: 2023-11-04 10:52:29
+Object: person, Time: 2023-11-04 10:52:29
+Object: person, Time: 2023-11-04 10:52:30
+Object: person, Time: 2023-11-04 10:52:30
+Object: person, Time: 2023-11-04 10:52:30
+Object: person, Time: 2023-11-04 10:52:31
+Object: person, Time: 2023-11-04 10:52:31
+Object: person, Time: 2023-11-04 10:52:31
+Object: person, Time: 2023-11-04 10:52:32
+Object: person, Time: 2023-11-04 10:52:32
+Object: person, Time: 2023-11-04 10:52:32
+Object: person, Time: 2023-11-04 10:52:32
+Object: person, Time: 2023-11-04 10:52:33
+Object: person, Time: 2023-11-04 10:52:33
+Object: person, Time: 2023-11-04 10:52:34
+Object: person, Time: 2023-11-04 10:52:34
+Object: person, Time: 2023-11-04 10:52:34
+Object: person, Time: 2023-11-04 10:52:34
+Object: person, Time: 2023-11-04 10:52:35
+Object: person, Time: 2023-11-04 10:52:35
+Object: person, Time: 2023-11-04 10:52:35
+Object: person, Time: 2023-11-04 10:52:36
+Object: person, Time: 2023-11-04 10:52:36
+Object: person, Time: 2023-11-04 10:52:36
+Object: person, Time: 2023-11-04 10:52:37
+Object: person, Time: 2023-11-04 10:52:37
+Object: person, Time: 2023-11-04 10:52:37
+Object: person, Time: 2023-11-04 10:52:38
+Object: person, Time: 2023-11-04 10:52:38
+Object: person, Time: 2023-11-04 10:52:38
+Object: person, Time: 2023-11-04 10:52:38
+Object: person, Time: 2023-11-04 10:52:39
+Object: person, Time: 2023-11-04 10:52:39
+Object: person, Time: 2023-11-04 10:52:39
+Object: person, Time: 2023-11-04 10:52:40
+Object: person, Time: 2023-11-04 10:52:40
+Object: person, Time: 2023-11-04 10:52:40
+Object: person, Time: 2023-11-04 10:52:40
+Object: person, Time: 2023-11-04 10:52:41
+Object: person, Time: 2023-11-04 10:52:41
+Object: person, Time: 2023-11-04 10:52:41
+Object: person, Time: 2023-11-04 10:52:42
+Object: person, Time: 2023-11-04 10:52:42
+Object: person, Time: 2023-11-04 10:52:42
+Object: person, Time: 2023-11-04 10:52:43
+Object: person, Time: 2023-11-04 10:52:43
+Object: person, Time: 2023-11-04 10:52:43
+Object: person, Time: 2023-11-04 10:52:44
+Object: person, Time: 2023-11-04 10:52:44
+Object: person, Time: 2023-11-04 10:52:44
+Object: person, Time: 2023-11-04 10:52:45
+Object: person, Time: 2023-11-04 10:52:45
+Object: person, Time: 2023-11-04 10:52:45
+Object: person, Time: 2023-11-04 10:52:46
+Object: person, Time: 2023-11-04 10:52:46
+Object: person, Time: 2023-11-04 10:52:46
+Object: person, Time: 2023-11-04 10:52:47
+Object: person, Time: 2023-11-04 10:52:47
+Object: person, Time: 2023-11-04 10:52:47
+Object: person, Time: 2023-11-04 10:52:47
+Object: person, Time: 2023-11-04 10:52:48
+Object: person, Time: 2023-11-04 10:52:48
+Object: person, Time: 2023-11-04 10:52:48
+Object: person, Time: 2023-11-04 10:52:49
+Object: person, Time: 2023-11-04 10:52:49
+Object: person, Time: 2023-11-04 10:52:49
+Object: person, Time: 2023-11-04 10:52:50
+Object: person, Time: 2023-11-04 10:52:50
+Object: person, Time: 2023-11-04 10:52:50
+Object: person, Time: 2023-11-04 10:52:51
+Object: person, Time: 2023-11-04 10:52:51
+Object: person, Time: 2023-11-04 10:52:51
+Object: person, Time: 2023-11-04 10:52:52
+Object: person, Time: 2023-11-04 10:52:52
+Object: person, Time: 2023-11-04 10:52:52
+Object: person, Time: 2023-11-04 10:52:53
+Object: person, Time: 2023-11-04 10:52:53
+Object: person, Time: 2023-11-04 10:52:53
+Object: person, Time: 2023-11-04 10:52:54
+Object: person, Time: 2023-11-04 10:52:54
+Object: person, Time: 2023-11-04 10:52:54
+Object: person, Time: 2023-11-04 10:52:55
+Object: person, Time: 2023-11-04 10:52:55
+Object: person, Time: 2023-11-04 10:52:55
+Object: person, Time: 2023-11-04 10:52:56
+Object: person, Time: 2023-11-04 10:52:56
+Object: person, Time: 2023-11-04 10:52:56
+Object: person, Time: 2023-11-04 10:52:56
+Object: person, Time: 2023-11-04 10:52:57
+Object: person, Time: 2023-11-04 10:52:57
+Object: person, Time: 2023-11-04 10:52:57
+Object: person, Time: 2023-11-04 10:52:58
+Object: person, Time: 2023-11-04 10:52:58
+Object: person, Time: 2023-11-04 10:52:58
+Object: person, Time: 2023-11-04 10:52:59
+Object: person, Time: 2023-11-04 10:52:59
+Object: person, Time: 2023-11-04 10:53:00
+Object: person, Time: 2023-11-04 10:53:00
+Object: person, Time: 2023-11-04 10:53:00
+Object: person, Time: 2023-11-04 10:53:01
+Object: person, Time: 2023-11-04 10:53:01
+Object: person, Time: 2023-11-04 10:53:01
+Object: person, Time: 2023-11-04 10:53:01
+Object: person, Time: 2023-11-04 10:53:02
+Object: person, Time: 2023-11-04 10:53:02
+Object: person, Time: 2023-11-04 10:53:02
+Object: person, Time: 2023-11-04 10:53:03
+Object: person, Time: 2023-11-04 10:53:03
+Object: person, Time: 2023-11-04 10:53:03
+Object: person, Time: 2023-11-04 10:53:04
+Object: person, Time: 2023-11-04 10:53:04
+Object: person, Time: 2023-11-04 10:53:04
+Object: person, Time: 2023-11-04 10:53:05
+Object: person, Time: 2023-11-04 10:53:05
+Object: person, Time: 2023-11-04 10:53:05
+Object: person, Time: 2023-11-04 10:53:07
+Object: person, Time: 2023-11-04 10:53:07
+Object: person, Time: 2023-11-04 10:53:07
+Object: person, Time: 2023-11-04 10:53:08
+Object: person, Time: 2023-11-04 10:53:08
+Object: person, Time: 2023-11-04 10:53:08
+Object: person, Time: 2023-11-04 10:53:09
+Object: person, Time: 2023-11-04 10:53:09
+Object: person, Time: 2023-11-04 10:53:09
+Object: person, Time: 2023-11-04 10:53:09
+Object: person, Time: 2023-11-04 10:53:10
+Object: person, Time: 2023-11-04 10:53:10
+Object: person, Time: 2023-11-04 10:53:10
+Object: person, Time: 2023-11-04 10:53:10
+Object: person, Time: 2023-11-04 10:53:11
+Object: person, Time: 2023-11-04 10:53:11
+Object: person, Time: 2023-11-04 10:53:11
+Object: person, Time: 2023-11-04 10:53:12
+Object: person, Time: 2023-11-04 10:53:12
+Object: person, Time: 2023-11-04 10:53:12
+Object: person, Time: 2023-11-04 10:53:12
+Object: person, Time: 2023-11-04 10:53:13
+Object: person, Time: 2023-11-04 10:53:13
+Object: person, Time: 2023-11-04 10:53:13
+Object: person, Time: 2023-11-04 10:53:14
+Object: person, Time: 2023-11-04 10:53:14
+Object: person, Time: 2023-11-04 10:53:15
+Object: person, Time: 2023-11-04 10:53:15
+Object: person, Time: 2023-11-04 10:53:16
+Object: person, Time: 2023-11-04 10:53:16
+Object: person, Time: 2023-11-04 10:53:16
+Object: person, Time: 2023-11-04 10:53:17
+Object: person, Time: 2023-11-04 10:53:17
+Object: person, Time: 2023-11-04 10:53:17
+Object: person, Time: 2023-11-04 10:53:18
+Object: person, Time: 2023-11-04 10:53:18
+Object: person, Time: 2023-11-04 10:53:18
+Object: person, Time: 2023-11-04 10:53:18
+Object: person, Time: 2023-11-04 10:53:19
+Object: person, Time: 2023-11-04 10:53:19
+Object: person, Time: 2023-11-04 10:53:19
+Object: person, Time: 2023-11-04 10:53:20
+Object: person, Time: 2023-11-04 10:53:20
+Object: person, Time: 2023-11-04 10:53:20
+Object: person, Time: 2023-11-04 10:53:20
+Object: person, Time: 2023-11-04 10:53:21
+Object: person, Time: 2023-11-04 10:53:21
+Object: person, Time: 2023-11-04 10:53:21
+Object: person, Time: 2023-11-04 10:53:22
+Object: person, Time: 2023-11-04 10:53:22
+Object: person, Time: 2023-11-04 10:53:22
+Object: person, Time: 2023-11-04 10:53:22
+Object: person, Time: 2023-11-04 10:53:23
+Object: person, Time: 2023-11-04 10:53:23
+Object: person, Time: 2023-11-04 10:53:23
+Object: person, Time: 2023-11-04 10:53:24
+Object: person, Time: 2023-11-04 10:53:24
+Object: person, Time: 2023-11-04 10:53:24
+Object: person, Time: 2023-11-04 10:53:24
+Object: person, Time: 2023-11-04 10:53:25
+Object: person, Time: 2023-11-04 10:53:25
+Object: person, Time: 2023-11-04 10:53:25
+Object: person, Time: 2023-11-04 10:53:26
+Object: person, Time: 2023-11-04 10:53:26
+Object: person, Time: 2023-11-04 10:53:26
+Object: person, Time: 2023-11-04 10:53:26
+Object: person, Time: 2023-11-04 10:53:27
+Object: person, Time: 2023-11-04 10:53:27
+Object: person, Time: 2023-11-04 10:53:27
+Object: person, Time: 2023-11-04 10:53:28
+Object: person, Time: 2023-11-04 10:53:28
+Object: person, Time: 2023-11-04 10:53:28
+Object: person, Time: 2023-11-04 10:53:28
+Object: person, Time: 2023-11-04 10:53:29
+Object: person, Time: 2023-11-04 10:53:29
+Object: person, Time: 2023-11-04 10:53:29
+Object: person, Time: 2023-11-04 10:53:30
+Object: person, Time: 2023-11-04 10:53:30
+Object: person, Time: 2023-11-04 10:53:30
+Object: No object detected, Time: 2023-11-04 10:53:30
+Object: person, Time: 2023-11-04 10:53:31
+Object: person, Time: 2023-11-04 10:53:31
+Object: person, Time: 2023-11-04 10:53:31
+Object: person, Time: 2023-11-04 10:53:32
+Object: person, Time: 2023-11-04 10:53:32
+Object: person, Time: 2023-11-04 10:53:32
+Object: person, Time: 2023-11-04 10:53:32
+Object: person, Time: 2023-11-04 10:53:33
+Object: person, Time: 2023-11-04 10:53:33
+Object: person, Time: 2023-11-04 10:53:33
+Object: person, Time: 2023-11-04 10:53:34
+Object: person, Time: 2023-11-04 10:53:34
+Object: person, Time: 2023-11-04 10:53:34
+Object: person, Time: 2023-11-04 10:53:35
+Object: person, Time: 2023-11-04 10:53:35
+Object: person, Time: 2023-11-04 10:53:35
+Object: person, Time: 2023-11-04 10:53:36
+Object: person, Time: 2023-11-04 10:53:36
+Object: person, Time: 2023-11-04 10:53:36
+Object: person, Time: 2023-11-04 10:53:36
+Object: person, Time: 2023-11-04 10:53:37
+Object: person, Time: 2023-11-04 10:53:37
+Object: person, Time: 2023-11-04 10:53:37
+Object: person, Time: 2023-11-04 10:53:38
+Object: person, Time: 2023-11-04 10:53:38
+Object: person, Time: 2023-11-04 10:53:38
+Object: person, Time: 2023-11-04 10:53:38
+Object: person, Time: 2023-11-04 10:53:39
+Object: person, Time: 2023-11-04 10:53:39
+Object: person, Time: 2023-11-04 10:53:39
+Object: person, Time: 2023-11-04 10:53:40
+Object: person, Time: 2023-11-04 10:53:40
+Object: person, Time: 2023-11-04 10:53:40
+Object: person, Time: 2023-11-04 10:53:41
+Object: person, Time: 2023-11-04 10:53:41
+Object: person, Time: 2023-11-04 10:53:41
+Object: person, Time: 2023-11-04 10:53:41
+Object: person, Time: 2023-11-04 10:53:42
+Object: person, Time: 2023-11-04 10:53:42
+Object: person, Time: 2023-11-04 10:53:43
+Object: person, Time: 2023-11-04 10:53:43
+Object: person, Time: 2023-11-04 10:53:43
+Object: person, Time: 2023-11-04 10:53:43
+Object: person, Time: 2023-11-04 10:53:44
+Object: person, Time: 2023-11-04 10:53:44
+Object: person, Time: 2023-11-04 10:53:44
+Object: person, Time: 2023-11-04 10:53:45
+Object: person, Time: 2023-11-04 10:53:45
+Object: person, Time: 2023-11-04 10:53:45
+Object: person, Time: 2023-11-04 10:53:46
+Object: person, Time: 2023-11-04 10:53:46
+Object: No object detected, Time: 2023-11-04 10:53:46
+Object: No object detected, Time: 2023-11-04 10:53:46
+Object: person, Time: 2023-11-04 10:53:47
+Object: person, Time: 2023-11-04 10:53:47
+Object: person, Time: 2023-11-04 10:53:47
+Object: person, Time: 2023-11-04 10:53:48
+Object: person, Time: 2023-11-04 10:53:48
+Object: person, Time: 2023-11-04 10:53:48
+Object: person, Time: 2023-11-04 10:53:49
+Object: No object detected, Time: 2023-11-04 10:53:49
+Object: No object detected, Time: 2023-11-04 10:53:49
+Object: No object detected, Time: 2023-11-04 10:53:49
+Object: No object detected, Time: 2023-11-04 10:53:50
+Object: No object detected, Time: 2023-11-04 10:53:51
+Object: person, Time: 2023-11-04 10:53:51
+Object: No object detected, Time: 2023-11-04 10:53:51
+Object: person, Time: 2023-11-04 10:53:52
+Object: person, Time: 2023-11-04 10:53:52
+Object: person, Time: 2023-11-04 10:53:52
+Object: person, Time: 2023-11-04 10:53:53
+Object: person, Time: 2023-11-04 10:53:53
+Object: person, Time: 2023-11-04 10:53:53
+Object: person, Time: 2023-11-04 10:53:53
+Object: person, Time: 2023-11-04 10:53:54
+Object: person, Time: 2023-11-04 10:53:54
+Object: person, Time: 2023-11-04 10:53:54
+Object: person, Time: 2023-11-04 10:53:55
+Object: person, Time: 2023-11-04 10:53:55
+Object: person, Time: 2023-11-04 10:53:55
+Object: person, Time: 2023-11-04 10:53:55
+Object: person, Time: 2023-11-04 10:53:56
+Object: person, Time: 2023-11-04 10:53:56
+Object: person, Time: 2023-11-04 10:53:56
+Object: person, Time: 2023-11-04 10:53:57
+Object: person, Time: 2023-11-04 10:53:57
+Object: person, Time: 2023-11-04 10:53:57
+Object: person, Time: 2023-11-04 10:53:58
+Object: person, Time: 2023-11-04 10:53:58
+Object: person, Time: 2023-11-04 10:53:58
+Object: person, Time: 2023-11-04 10:53:58
+Object: person, Time: 2023-11-04 10:53:59
+Object: person, Time: 2023-11-04 10:53:59
+Object: person, Time: 2023-11-04 10:53:59
+Object: person, Time: 2023-11-04 10:54:00
+Object: No object detected, Time: 2023-11-04 10:54:00
+Object: person, Time: 2023-11-04 10:54:00
+Object: person, Time: 2023-11-04 10:54:00
+Object: person, Time: 2023-11-04 10:54:01
+Object: person, Time: 2023-11-04 10:54:01
+Object: person, Time: 2023-11-04 10:54:01
+Object: person, Time: 2023-11-04 10:54:02
+Object: person, Time: 2023-11-04 10:54:02
+Object: person, Time: 2023-11-04 10:54:02
+Object: person, Time: 2023-11-04 10:54:03
+Object: person, Time: 2023-11-04 10:54:03
+Object: person, Time: 2023-11-04 10:54:03
+Object: person, Time: 2023-11-04 10:54:03
+Object: person, Time: 2023-11-04 10:54:04
+Object: person, Time: 2023-11-04 10:54:04
+Object: person, Time: 2023-11-04 10:54:04
+Object: person, Time: 2023-11-04 10:54:05
+Object: person, Time: 2023-11-04 10:54:05
+Object: person, Time: 2023-11-04 10:54:06
+Object: person, Time: 2023-11-04 10:54:07
+Object: person, Time: 2023-11-04 10:54:07
+Object: No object detected, Time: 2023-11-04 10:54:07
+Object: person, Time: 2023-11-04 10:54:07
+Object: person, Time: 2023-11-04 10:54:08
+Object: person, Time: 2023-11-04 10:54:08
+Object: person, Time: 2023-11-04 10:54:08
+Object: person, Time: 2023-11-04 10:54:09
+Object: person, Time: 2023-11-04 10:54:09

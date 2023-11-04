@@ -1,38 +1,41 @@
-# Import necessary libraries
-from flask import Flask, render_template, request, Response
+import streamlit as st
 import cv2
 import numpy as np
+import time
+from datetime import datetime
 
-# Initialize the Flask application
-app = Flask(__name__)
-
-# Load the pre-trained YOLOv7 model
+# Load the YOLO model and classes
 net = cv2.dnn.readNet("dnn_model/yolov4-tiny.weights", "dnn_model/yolov4-tiny.cfg")
-
-# Define classes for detection (e.g., 'stray_animal')
 classes = []
 with open("dnn_model/classes.txt", "r") as file_object:
     for class_name in file_object.readlines():
         class_name = class_name.strip()
         classes.append(class_name)
 
+# The object the system will detect for now, it is person, cat, sheep , dog , laptop
+class_ids_to_detect = [0, 16, 17, 18, 19, 20, 39] 
 
 # Function to perform real-time detection
 def detect_objects(frame):
     # Preprocess the frame
     blob = cv2.dnn.blobFromImage(frame, 1/255.0, (416, 416), swapRB=True, crop=False)
     net.setInput(blob)
-    
+
     # Get output layer names
     layer_names = net.getUnconnectedOutLayersNames()
-    
+
+    # Forward pass (check the correctness of model and configuration paths)
+    try:
+        outputs = net.forward(layer_names)
+    except Exception as e:
+        print("Error during forward pass:", e)
+        return []
+
     # Forward pass
     outputs = net.forward(layer_names)
-    
+
     # Process the detection results
-    boxes = []
-    confidences = []
-    class_ids = []
+    detected_objects = []
 
     for output in outputs:
         for detection in output:
@@ -40,7 +43,11 @@ def detect_objects(frame):
             class_id = np.argmax(scores)
             confidence = scores[class_id]
 
-            if confidence > 0.5:  # Adjust confidence threshold as needed
+            if confidence > 0.5 and class_id in class_ids_to_detect:
+                label = str(classes[class_id])
+                detected_objects.append(label)
+
+                # Draw bounding boxes on the frame
                 center_x = int(detection[0] * frame.shape[1])
                 center_y = int(detection[1] * frame.shape[0])
                 w = int(detection[2] * frame.shape[1])
@@ -49,53 +56,48 @@ def detect_objects(frame):
                 x = int(center_x - w / 2)
                 y = int(center_y - h / 2)
 
-                boxes.append([x, y, w, h])
-                confidences.append(float(confidence))
-                class_ids.append(class_id)
+                # Define colors for different classes (modify as needed)
+                colors = {"Person": (0, 255, 0), "Cow": (255, 0, 0), "Cat": (0, 0, 255), "Dog": (255, 255, 0), "Laptop": (0, 255, 255), "Goat": (255, 0, 255), "Bottel": (128, 0, 128)}
 
-    indexes = cv2.dnn.NMSBoxes(boxes, confidences, 0.5, 0.4)
+                # Draw bounding boxes with class-specific colors
+                color = colors.get(label, (0, 0, 0))  # Default to black if class not found
+                cv2.rectangle(frame, (x, y), (x + w, y + h), color, 2)
+                cv2.putText(frame, label, (x, y - 10), cv2.FONT_HERSHEY_SIMPLEX, 0.5, color, 2)
 
-    for i in range(len(boxes)):
-        if i in indexes:
-            x, y, w, h = boxes[i]
-            label = str(classes[class_ids[i]])
-            color = (0, 255, 0)  # Green color
-            cv2.rectangle(frame, (x, y), (x + w, y + h), color, 2)
-            cv2.putText(frame, label, (x, y - 10), cv2.FONT_HERSHEY_SIMPLEX, 0.5, color, 2)
-    
-    return frame
+    return detected_objects
 
-# Function to stream video with real-time detection
-def generate():
-    cap = cv2.VideoCapture(0)  # Replace with your CCTV camera source
-    
-    while True:
-        ret, frame = cap.read()
-        if not ret:
-            break
+st.title("Stray Cattel Detection")
 
-        frame = detect_objects(frame)
-        _, buffer = cv2.imencode('.jpg', frame)
-        frame = buffer.tobytes()
+# Create a streamlit element for displaying the webcam feed
+video_feed = st.empty()
 
-        yield (b'--frame\r\n'
-               b'Content-Type: image/jpeg\r\n\r\n' + frame + b'\r\n')
+# Streamlit app loop
+cap = cv2.VideoCapture(0)  # Use the laptop's webcam as the video source
+while True:
+    ret, frame = cap.read()
+    if not ret:
+        break
 
-# Define the route to display the video stream with detection
-@app.route('/')
-def index():
-    return render_template('index.html')
+    # Object detection
+    detected_objects = detect_objects(frame)
 
-@app.route('/styles.css')
-def styles():
-    return app.send_static_file('styles.css'), 200, {'Content-Type': 'text/css'}
+    # Display the frame with detected objects
+    frame_with_boxes = frame  # We've already drawn the boxes on the frame
+    video_feed.image(frame_with_boxes, channels="BGR")
 
+    # Display current object detected
+    if detected_objects:
+        current_object = detected_objects[0]
+    else:
+        current_object = "No object detected"
 
-@app.route('/video_feed')
-def video_feed():
-    return Response(generate(), mimetype='multipart/x-mixed-replace; boundary=frame')
+    st.write("Current Object Detected:", current_object)
+    st.write("Time:", datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
 
-if __name__ == '__main__':
-    app.run(debug=True)
+    # Save data to a file (update_data/data.txt)
+    with open("update_data/data.txt", "a") as data_file:
 
+        data_file.write(f"Object: {current_object}, Time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
 
+    # Sleep for a while to control the frame rate
+    time.sleep(0.1)
