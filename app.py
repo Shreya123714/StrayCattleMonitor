@@ -4,6 +4,28 @@ import numpy as np
 import time
 from datetime import datetime
 
+# Load custom JavaScript
+def load_custom_js():
+    with open("static/script.js", "r") as js_file:
+        js_code = js_file.read()
+        st.markdown(f'<script>{js_code}</script>', unsafe_allow_html=True)
+
+# Load custom CSS
+def load_custom_css():
+    with open("static/styles.css", "r") as css_file:
+        css_code = css_file.read()
+        st.markdown(f'<style>{css_code}</style>', unsafe_allow_html=True)
+
+# Main Streamlit app
+def main():
+    st.title("My Streamlit App")
+
+    # Load custom JavaScript and CSS
+    load_custom_js()
+    load_custom_css()
+
+
+
 # Load the YOLO model and classes
 net = cv2.dnn.readNet("dnn_model/yolov4-tiny.weights", "dnn_model/yolov4-tiny.cfg")
 classes = []
